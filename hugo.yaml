@@ -1,0 +1,16 @@
+baseURL: "https://ecoacoustics2026.org/"
+languageCode: "en-us"
+title: "World Ecoacoustics Congress 2026"
+theme: hextra
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+# https://imfing.github.io/hextra/docs/guide/configuration/
+params:
+  navbar:
+    logo:
+      path: favicon.png
+      dark: favicon.png
+      height: 64
+      width: 120

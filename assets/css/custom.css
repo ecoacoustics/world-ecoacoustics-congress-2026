@@ -1,0 +1,21 @@
+* {
+  font-family: "Arial", sans-serif;
+}
+
+:root {
+  --primary-hue: 91.79deg;
+  --primary-saturation: 68.42%;
+  --primary-lightness: 33.53%;
+
+  --sl-color-primary-50: #f4fce9 !important;
+  --sl-color-primary-100: #e5f7d0 !important;
+  --sl-color-primary-200: #cdf0a6 !important;
+  --sl-color-primary-300: #ade472 !important;
+  --sl-color-primary-400: #8ed546 !important;
+  --sl-color-primary-500: #6fba28 !important;
+  --sl-color-primary-600: #52901b !important;
+  --sl-color-primary-700: #42711a !important;
+  --sl-color-primary-800: #375a1a !important;
+  --sl-color-primary-900: #304d1a !important;
+  --sl-color-primary-950: #162a09 !important;
+}
