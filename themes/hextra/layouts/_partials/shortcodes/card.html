@@ -30,7 +30,7 @@
   {{- with $image -}}
     <img
       alt="{{ $title }}"
-      class="hextra-card-image"
+      class="hextra-card-image hx:grow"
       loading="lazy"
       decoding="async"
       src="{{ $image | safeURL }}"

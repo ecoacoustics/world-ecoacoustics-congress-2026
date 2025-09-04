@@ -28,6 +28,8 @@
   {{- partial "schema.html" . -}}
   {{- partial "twitter_cards.html" . -}}
 
+  {{ partial "custom/head-start.html" . -}}
+
   {{- $mainCss := resources.Get "css/compiled/main.css" -}}
   {{- $customCss := resources.Get "css/custom.css" -}}
   {{- $variablesCss := resources.Get "css/variables.css" | resources.ExecuteAsTemplate "css/variables.css" . -}}

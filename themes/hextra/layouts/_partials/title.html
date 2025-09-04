@@ -1,0 +1,21 @@
+{{ $context := .  }}
+{{ if .heroImage }}
+<div class="hero">
+  <figure>
+    <img src="{{ .heroImage }}" alt="{{ $context.Title }}" class="hero-image" />
+    {{ with .heroImageAttribution }}
+    <figcaption class="hx:text-center hx:text-sm hx:text-neutral-50 hx:dark:text-gray-400 hx:mt-2">Attribution: {{ . | safeHTML }}</figcaption>
+    {{ end }}
+  </figure>
+
+{{ if $context.Title }}
+  <h1 class="hx:text-center hx:mt-2 hx:text-4xl hx:font-bold hx:tracking-tight hx:text-slate-900 hx:dark:text-slate-100 main-title">
+    {{ $context.Title }}
+  </h1>
+</div>
+{{ end }}
+{{ else if $context.Title }}
+  <h1 class="hx:text-center hx:mt-2 hx:text-4xl hx:font-bold hx:tracking-tight hx:text-slate-900 hx:dark:text-slate-100 main-title">
+    {{ $context.Title }}
+  </h1>
+{{ end }}

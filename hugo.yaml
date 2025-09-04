@@ -10,7 +10,7 @@ markup:
 params:
   navbar:
     logo:
-      path: favicon.png
-      dark: favicon.png
-      height: 64
+      path: ecoacoustics_logo_6c.gif
+      dark: ecoacoustics_logo_6c.gif
+      height: 100
       width: 120
