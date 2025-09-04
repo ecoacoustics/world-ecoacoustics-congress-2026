@@ -83,6 +83,7 @@ body {
   max-height: 33vh;
   max-width: unset;
   grid-row: 1 / 3;
+  object-fit: cover;
 }
 
 .hero figure {
