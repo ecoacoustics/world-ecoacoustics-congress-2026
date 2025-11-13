@@ -6,6 +6,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
 # https://imfing.github.io/hextra/docs/guide/configuration/
 params:
   navbar:
@@ -14,3 +15,46 @@ params:
       dark: ecoacoustics_logo_6c.gif
       height: 100
       width: 120
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      pageRef: /about
+      weight: 1
+    - identifier: registration 
+      name: Registration
+      pageRef: /registration
+      weight: 2
+    - identifier: submissions 
+      name: Submissions
+      weight: 3
+    - identifier: sponsorship
+      name: Sponsorship & Exhibits
+      weight: 4
+
+    - name: Call for Symposia
+      pageRef: /submissions/call-for-symposia
+      parent: submissions
+      weight: 1
+    - name: Call for Abstracts
+      pageRef: /submissions/call-for-abstracts
+      parent: submissions
+      weight: 2
+    - name: Call for Workshops
+      pageRef: /submissions/call-for-workshops
+      parent: submissions
+      weight: 3
+
+    - name: Opportunities
+      pageRef: /sponsorship/opportunities
+      parent: sponsorship
+      weight: 1
+    - name: Sponsors
+      pageRef: /sponsorship/sponsors
+      parent: sponsorship
+      weight: 2
+    - name: Exhibitors
+      pageRef: /sponsorship/exhibitors
+      parent: sponsorship
+      weight: 3

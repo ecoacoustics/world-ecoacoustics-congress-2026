@@ -1,5 +1,5 @@
 * {
-  font-family: "Arial", sans-serif;
+  font-family: var(--sl-font-sans);
 }
 
 h1,
@@ -111,4 +111,23 @@ body {
   grid-column: 1;
   text-wrap-style: balance;
   color: white;
+}
+
+.hextra-nav-container {
+  height: 6rem;
+  margin-top: 1.5rem;
+}
+
+nav.hextra-max-navbar-width a,
+nav.hextra-max-navbar-width button {
+  font-size: var(--sl-font-size-medium); 
+  font-weight: var(--sl-font-weight-semibold);
+}
+
+.hextra-card {
+  background-color: var(--sl-color-neutral-0);
+}
+
+.hextra-card-image {
+  padding: 1rem;
 }

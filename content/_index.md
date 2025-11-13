@@ -6,7 +6,8 @@ heroImageAttribution: <a href="https://www.instagram.com/realfocus_cairns/">@rea
 ---
 
 
-The International Society for Ecoacoustics welcomes you to the World Ecoacoustics Congress 2026, held in Cairns, Australia.
+The International Society for Ecoacoustics welcomes you to the World
+Ecoacoustics Congress 2026, held in Cairns, Australia, from **17-21 August**, 2026.
 
 Stay tuned for more updates!
 
