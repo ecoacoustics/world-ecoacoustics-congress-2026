@@ -5,18 +5,20 @@ heroImage: "./images/Palm Cove looking to Cairns.jpg"
 heroImageAttribution: <a href="https://www.instagram.com/realfocus_cairns/">@realfocus_cairns</a>
 ---
 
+We are excited to invite you to participate in the 6th World Ecoacoustics
+Congress (WEC), taking place in Cairns (Gimuy), Australia, **17th - 21st of
+August** 2026. The WEC happens every 2 years and attracts hundreds of delegates
+to discuss advances and innovations in Ecoacoustics. 
 
-The International Society for Ecoacoustics welcomes you to the World
-Ecoacoustics Congress 2026, held in Cairns, Australia, from **17-21 August**, 2026.
+We are seeking the community’s input to help shape the event. [Call for
+Symposia](submissions/call-for-symposia/) and [Call for
+Workshops](submissions/call-for-workshops/) are now open.
 
-Stay tuned for more updates!
+# Stay updated
 
+If you would like to receive email updates with the latest news about the congress, please register your interest below.
 
-# Register your interest
-
-Please register your interest for the congress by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdWWfI2_Bs4OnUU2pEMp7zzH95DIi2Rge77Iom7tUb9slV3wg/viewform?usp=header).
-
-<sl-button href="https://docs.google.com/forms/d/e/1FAIpQLSdWWfI2_Bs4OnUU2pEMp7zzH95DIi2Rge77Iom7tUb9slV3wg/viewform?usp=header" variant="primary">Register</sl-button>
+<sl-button href="https://docs.google.com/forms/d/e/1FAIpQLSdWWfI2_Bs4OnUU2pEMp7zzH95DIi2Rge77Iom7tUb9slV3wg/viewform?usp=header" variant="primary" outline>Register</sl-button>
 
 
 
