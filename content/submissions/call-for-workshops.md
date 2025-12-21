@@ -19,7 +19,7 @@ the expected number of participants and material needed. Workshops will be held
 on Monday (17/08/2026) and they can be half or full day workshops. Please keep
 in mind that there are a limited number of rooms for workshops.
 
-<u>**Submissions close on the 15th of February 2026.**</u>
+<u>**Submissions close on the 1st of March 2026.**</u>
 
 <sl-button href="https://docs.google.com/forms/d/e/1FAIpQLSdh-KWkdziy51pIRXprK03rhl4OjdQySLDYoYF6yYCDBgfwlA/viewform?usp=dialog" variant="primary" outline size="large">Workshop submissions</sl-button>
 
