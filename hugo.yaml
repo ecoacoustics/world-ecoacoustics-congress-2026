@@ -9,6 +9,8 @@ markup:
 
 # https://imfing.github.io/hextra/docs/guide/configuration/
 params:
+  footer:
+    displayPoweredBy: false
   navbar:
     logo:
       path: ecoacoustics_logo_6c.gif
