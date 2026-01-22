@@ -11,7 +11,9 @@ Please register your interest for the congress by filling out [this form](https:
 
 ## Pricing
 
-Please be aware that these are <u>**tentative**</u> prices only and subject to change.
+Please be aware that these are <u>**tentative**</u> prices only and subject to change. 
+
+Catering included: morning tea & coffee & snacks; Lunch; Afternoon tea & coffee.
 
 |                                      | Member (AUD) | Non-member (AUD) |
 | ------------------------------------ | -----------: | ---------------: |

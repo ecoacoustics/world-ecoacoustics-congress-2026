@@ -1,5 +1,7 @@
 ---
-title: World Ecoacoustics Congress 2026
+title: |
+  World Ecoacoustics Congress 2026 
+  Cairns, Australia
 toc: false
 heroImage: "./images/Palm Cove looking to Cairns.jpg"
 heroImageAttribution: <a href="https://www.instagram.com/realfocus_cairns/">@realfocus_cairns</a>
