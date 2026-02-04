@@ -114,8 +114,13 @@ body {
 }
 
 .hextra-nav-container {
-  height: 6rem;
-  margin-top: 1.5rem;
+}
+
+nav.hextra-max-navbar-width {
+  height: auto;
+  min-height: 4rem;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
 }
 
 nav.hextra-max-navbar-width a,

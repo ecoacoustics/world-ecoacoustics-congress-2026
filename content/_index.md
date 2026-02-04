@@ -8,7 +8,7 @@ heroImageAttribution: <a href="https://www.instagram.com/realfocus_cairns/">@rea
 ---
 
 We are excited to invite you to participate in the 6th World Ecoacoustics
-Congress (WEC), taking place in Cairns (Gimuy), Australia, **17th - 21st of
+Congress (WEC), taking place in Cairns (Gimuy), Australia, **17th - 20th of
 August** 2026. The WEC happens every 2 years and attracts hundreds of delegates
 to discuss advances and innovations in Ecoacoustics. 
 
@@ -28,6 +28,12 @@ If you would like to receive email updates with the latest news about the congre
 # Sponsors
 
 {{< cards cols="2" >}}
-{{< card image="./ecoacoustics_logo_6c.gif" title="International Society for Ecoacoustics" link="https://sites.google.com/site/ecoacousticssociety/" >}}
-{{< card image="./images/oe-logo-horizontal.svg" link="https://openecoacoustics.org" >}}
+{{< card image="/ecoacoustics_logo_6c.gif" title="International Society for Ecoacoustics" link="https://sites.google.com/site/ecoacousticssociety/" >}}
+{{< card image="/images/oe-logo-horizontal.svg" link="https://openecoacoustics.org" >}}
+{{< /cards >}}
+
+# Partners
+
+{{< cards >}}
+{{< card image="/images/NRMjobs_logo.jpg" link="https://nrmjobs.com.au" >}}
 {{< /cards >}}
