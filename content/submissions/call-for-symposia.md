@@ -29,7 +29,7 @@ will participate in your symposia. If many symposia proposals are similar, we
 will encourage chairs to combine their sessions, possibly expanding to more than
 one allocated time slot. 
 
-<u>**Submissions close on the 15th of February 2026.**</u>
+<u>**Submissions close on the 23rd of February 2026.**</u>
 
 <sl-button href="https://docs.google.com/forms/d/e/1FAIpQLSf9d8F0HxkZ9PrR67qQWZNp1tGNRsZhGpRVrX5NAeUR2jACYw/viewform?usp=dialog" variant="primary" outline size="large">Symposia submissions</sl-button>
 

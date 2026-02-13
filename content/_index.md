@@ -16,6 +16,10 @@ We are seeking the community’s input to help shape the event. [Call for
 Symposia](submissions/call-for-symposia/) and [Call for
 Workshops](submissions/call-for-workshops/) are now open.
 
+> [!NOTE]
+> - **Symposia submissions** deadline extended to 23rd of February  
+> - **Abstract submissions** will open soon
+
 # Stay updated
 
 If you would like to receive email updates with the latest news about the congress, please register your interest below.

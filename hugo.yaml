@@ -13,8 +13,8 @@ params:
     displayPoweredBy: false
   navbar:
     logo:
-      path: ecoacoustics_logo_6c.gif
-      dark: ecoacoustics_logo_6c.gif
+      path: ecoacoustics_logo_congress_version.tiff
+      dark: ecoacoustics_logo_congress_version.tiff
       height: 100
       width: 120
 
