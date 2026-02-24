@@ -17,8 +17,8 @@ Symposia](submissions/call-for-symposia/) and [Call for
 Workshops](submissions/call-for-workshops/) are now open.
 
 > [!NOTE]
-> - **Symposia submissions** deadline extended to 23rd of February  
-> - **Abstract submissions** will open soon
+> - **Abstract submissions** will open soon.
+> - Symposia submissions are now closed. Thank you to everyone who submitted a proposal. 
 
 # Stay updated
 

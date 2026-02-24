@@ -34,6 +34,10 @@ menu:
     - identifier: sponsorship
       name: Sponsorship & Exhibits
       weight: 4
+    - identifier: location
+      name: Location
+      pageRef: /location
+      weight: 5
 
     - name: Call for Symposia
       pageRef: /submissions/call-for-symposia

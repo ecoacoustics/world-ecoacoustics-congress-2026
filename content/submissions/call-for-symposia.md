@@ -3,7 +3,7 @@ title = 'Call for Symposia'
 date = 2025-11-13T15:08:40+11:00
 +++
 
-**Call for Symposia is now open.**
+**Call for Symposia is now closed. Thank you to everyone who submitted a proposal.**
 
 The World Ecoacoustics Congress (WEC) serves as a global platform for
 researchers, scientists, technicians, engineers and practitioners to discuss and
@@ -28,10 +28,6 @@ submissions to their sessions, it is likely that others outside your network
 will participate in your symposia. If many symposia proposals are similar, we
 will encourage chairs to combine their sessions, possibly expanding to more than
 one allocated time slot. 
-
-<u>**Submissions close on the 23rd of February 2026.**</u>
-
-<sl-button href="https://docs.google.com/forms/d/e/1FAIpQLSf9d8F0HxkZ9PrR67qQWZNp1tGNRsZhGpRVrX5NAeUR2jACYw/viewform?usp=dialog" variant="primary" outline size="large">Symposia submissions</sl-button>
 
 Suggested themes are listed below, but feel free to propose something different.
 
