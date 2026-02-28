@@ -9,6 +9,8 @@ markup:
 
 # https://imfing.github.io/hextra/docs/guide/configuration/
 params:
+  contact:
+    email: "ecoacoustics2026@gmail.com"
   footer:
     displayPoweredBy: false
   navbar:
