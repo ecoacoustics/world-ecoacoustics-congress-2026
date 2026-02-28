@@ -77,7 +77,6 @@ body {
 
 .hero .hero-image {
   width: 100vw;
-
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
   max-height: 33vh;
@@ -111,9 +110,6 @@ body {
   grid-column: 1;
   text-wrap-style: balance;
   color: white;
-}
-
-.hextra-nav-container {
 }
 
 nav.hextra-max-navbar-width {

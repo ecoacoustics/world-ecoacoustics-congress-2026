@@ -2,7 +2,7 @@
 title = "Location"
 +++
 
-**Join us in Cairns, Australia for the 6th World Ecoacoustics Congress!**
+**Join us in Cairns (Gimuy), Australia for the 6th World Ecoacoustics Congress!**
 
 Location: Cairns Convention Centre  
 Dates: 17th - 20th August 2026

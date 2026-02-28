@@ -17,6 +17,9 @@ Nicholas Friedman - JCU
 Karen Rowe - Museums Victoria  
 Marina D. A. Scarpelli - Museums Victoria  
 Andrew Schwenke - Queensland Herbarium  
+Joseph Jantke - University of Adelaide
+
+To get in touch with the local organising committee, please contact us at [ecoacoustics2026@gmail.com](mailto:ecoacoustics2026@gmail.com).
 
 ## ISE
 

@@ -17,7 +17,8 @@ Symposia](submissions/call-for-symposia/) and [Call for
 Workshops](submissions/call-for-workshops/) are now open.
 
 > [!NOTE]
-> - **Abstract submissions** will open soon.
+> - [**Abstract submissions** are now open](./submissions/call-for-abstracts/).
+> - **Workshop call** has been extended to the 9th of March 2026, 23:59 AEST.
 > - Symposia submissions are now closed. Thank you to everyone who submitted a proposal. 
 
 # Stay updated
