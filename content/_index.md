@@ -13,13 +13,16 @@ August** 2026. The WEC happens every 2 years and attracts hundreds of delegates
 to discuss advances and innovations in Ecoacoustics. 
 
 We are seeking the community’s input to help shape the event. [Call for
-Symposia](submissions/call-for-symposia/) and [Call for
 Workshops](submissions/call-for-workshops/) are now open.
 
 > [!NOTE]
 > - [**Abstract submissions** are now open](./submissions/call-for-abstracts/).
 > - **Workshop call** has been extended to the 9th of March 2026, 23:59 AEST.
 > - Symposia submissions are now closed. Thank you to everyone who submitted a proposal. 
+
+{{< callout icon="sparkles">}}
+  Registration is now open! Take advantage of the early bird pricing and secure your spot at the congress. <a href="https://www.eventbrite.com.au/e/world-ecoacoustics-congress-tickets-1984242648175">Click here to register</a>.
+{{< /callout >}}
 
 # Stay updated
 

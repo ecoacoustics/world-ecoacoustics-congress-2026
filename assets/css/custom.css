@@ -132,3 +132,21 @@ nav.hextra-max-navbar-width button {
 .hextra-card-image {
   padding: 1rem;
 }
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.registration-fees-table th,
+.registration-fees-table td {
+  padding: 0.75rem 1rem;
+}
+
+.registration-fees-table th:first-child,
+.registration-fees-table td:first-child,
+.registration-fees-table th:last-child,
+.registration-fees-table td:last-child {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
