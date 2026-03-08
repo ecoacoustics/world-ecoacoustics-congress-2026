@@ -14,6 +14,10 @@ There are four types of registration available: Early bird, Student, Low income
 country, and Regular bird, and two registration options: Member and Non-member.
 The prices for each type of registration are listed in the tables below.
 
+{{< callout icon="sparkles" >}}
+**Early bird registration is available until the 1st of May 2026, 23:59 AEST.**
+{{< /callout >}}
+
 ### For Members:
 
 The Member registration option is open to everyone, including people who are not
