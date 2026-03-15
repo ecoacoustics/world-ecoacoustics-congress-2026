@@ -33,3 +33,25 @@ via email to access the conference tour hub discounts.
 
 For more options, visit: https://tropicalnorthqueensland.org.au/
 
+## Explore Cairns and Beyond
+
+From the rainforest to the reef, there is no shortage of places
+to explore while visiting Cairns.
+
+### Along the Esplanade
+
+{{< cards cols="3" >}}
+{{< card image="/images/esplanade_viewpoint_one.jpg" title="Cairns Esplanade" subtitle="The foreshore is ideal for an early walk, sea views, and a first sense of tropical Cairns." >}}
+{{< card image="/images/esplanade_viewpoint_two.jpg" title="Waterfront Lookouts" subtitle="Boardwalks and open public spaces along the Esplanade make it an easy stop close to the city centre." >}}
+{{< card image="/images/torresian_imperial_pair_esplanade.jpg" title="Tropical Birdlife" subtitle="Cairns offers memorable encounters with the region's rich birdlife. Pictured: Torresian imperial-pigeon (*Ducula spilorrhoa*)" >}}
+{{< /cards >}}
+
+### Day Trips from Cairns
+
+{{< cards cols="2" >}}
+{{< card image="/images/fitzroy_island.jpg" title="Fitzroy Island" subtitle="A short ferry trip from Cairns brings together coral reef waters, island walks, and beach time." >}}
+{{< card image="/images/mossman_gorge.jpg" title="Mossman Gorge" subtitle="Experience the Daintree region through rainforest walks, cool clear water, and Kuku Yalanji Country." >}}
+{{< card image="/images/the_boulders.jpg" title="Babinda Boulders" subtitle="A classic Wet Tropics excursion with dramatic freshwater scenery framed by dense rainforest." >}}
+{{< /cards >}}
+
+
