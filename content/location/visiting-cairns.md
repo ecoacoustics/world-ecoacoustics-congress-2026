@@ -28,8 +28,8 @@ planet.
 
 The WEC 2026 is partnering with the CaPTA Group to offer our delegates offers on
 tours. Access the [Conference Tour Hub](https://page.experienceco.com/conference-hub-rucaptacaag) 
-to see everything CaPTA has to offer, and reach out to
-ecoacoustics2026@gmail.com if you need the code to book a tour.
+to see everything CaPTA has to offer. Registered attendees will receive a code
+via email to access the conference tour hub discounts.  
 
 For more options, visit: https://tropicalnorthqueensland.org.au/
 
