@@ -1,5 +1,5 @@
 +++
-title = "Location"
+title = "Location and Venue"
 +++
 
 **Join us in Cairns (Gimuy), Australia for the 6th World Ecoacoustics Congress!**
