@@ -27,7 +27,7 @@ August 2026, in Cairns (Gimuy), Australia.
 
 <sl-button href="https://docs.google.com/forms/d/e/1FAIpQLSel452IFMiX7W6CTUJn_0THlp6atmFb6G_gA106FcfsvXBDTg/viewform?usp=header" variant="primary" outline size="large">Abstract submissions</sl-button>
 
-<u>**Submissions close on the 28th of March 2026.**</u>
+<u>**Submissions close on the 11th of April 2026, 23:59 AEST.**</u>
 
 ## Communication formats
 
@@ -43,7 +43,7 @@ Talks and posters will be organised by common themes and topics within the scien
 
 If you are interested in submitting an abstract, please fill this
 [form](https://docs.google.com/forms/d/e/1FAIpQLSel452IFMiX7W6CTUJn_0THlp6atmFb6G_gA106FcfsvXBDTg/viewform?usp=header)
-in and submit it before March 28th 2026. After assessment of the abstracts
+in and submit it before April 11th 2026, 23:59 AEST. After assessment of the abstracts
 received by the Scientific and Advisory committees, the author will be notified
 of their proposal outcome before April 15th 2026. If accepted, the author will
 be invited to register and will be contacted by the technical secretariat for

@@ -16,13 +16,12 @@ We are seeking the community’s input to help shape the event. [Call for
 Workshops](submissions/call-for-workshops/) are now open.
 
 > [!NOTE]
-> - [**Abstract submissions** are now open](./submissions/call-for-abstracts/).
-> - **Workshop call** has been extended to the 9th of March 2026, 23:59 AEST.
-> - Symposia submissions are now closed. Thank you to everyone who submitted a proposal. 
+> - Registration for the congress is temporarily on hold due to current travel uncertainties. We are still collecting abstracts.
+> - [**Abstract submissions** are open until the 11th of April 2026, 23:59 AEST](./submissions/call-for-abstracts/).
 
-{{< callout icon="sparkles">}}
+<!-- {{< callout icon="sparkles">}}
   Registration is now open! Take advantage of the early bird pricing and secure your spot at the congress. <a href="https://www.eventbrite.com.au/e/world-ecoacoustics-congress-tickets-1984242648175">Click here to register</a>.
-{{< /callout >}}
+{{< /callout >}} -->
 
 # Stay updated
 
