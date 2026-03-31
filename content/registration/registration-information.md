@@ -3,12 +3,9 @@ title = 'Registration'
 date = 2025-11-13T15:16:00+11:00
 +++
 
-<!-- Registration for the World Ecoacoustics Congress 2026 is now open! -->
+Registration for the World Ecoacoustics Congress 2026 is now open!
 
-Registration for the congress is temporarily on hold due to current travel uncertainties. We are still collecting abstracts.
-
-<!-- <sl-button href="https://www.eventbrite.com.au/e/world-ecoacoustics-congress-tickets-1984242648175" size="large" variant="primary" style="width: 100%;">Register Now</sl-button> -->
-
+<sl-button href="https://www.eventbrite.com.au/e/world-ecoacoustics-congress-tickets-1984242648175" size="large" variant="primary" style="width: 100%;">Register Now</sl-button>
 
 ## Registration fees
 
@@ -16,9 +13,9 @@ There are four types of registration available: Early bird, Student, Low income
 country, and Regular bird, and two registration options: Member and Non-member.
 The prices for each type of registration are listed in the tables below.
 
-<!-- {{< callout icon="sparkles" >}}
+{{< callout icon="sparkles" >}}
 **Early bird registration is available until the 1st of May 2026, 23:59 AEST.**
-{{< /callout >}} -->
+{{< /callout >}}
 
 ### For Members:
 
