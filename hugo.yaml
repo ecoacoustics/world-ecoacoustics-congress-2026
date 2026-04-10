@@ -38,6 +38,10 @@ menu:
     - identifier: location
       name: Location
       weight: 5
+    - identifier: program 
+      name: Program
+      pageRef: /program
+      weight: 6
 
 # /registration/** -----------------------------
     - name: Register Now

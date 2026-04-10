@@ -17,7 +17,7 @@ to discuss advances and innovations in Ecoacoustics.
 {{< /callout >}}
 
 {{< callout icon="sparkles">}}
-**Abstract submissions** are open until the 11th of April 2026, 23:59 AEST [Click here to submit your abstract](./submissions/call-for-abstracts/).
+**Abstract submissions** are open until the 27th of April, 2026, 23:59 AEST [Click here to submit your abstract](./submissions/call-for-abstracts/).
 {{< /callout >}}
 
 <br>
