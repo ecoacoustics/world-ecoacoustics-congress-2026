@@ -4,6 +4,13 @@ title = "Program"
 
 ## Workshops
 
+Workshops will be held on the Monday. Registered congress attendees will receive
+a link to choose the workshop they would like to attend. We will prioritise one
+workshop per person until capacity is reached to give everyone the opportunity
+to participate.
+
+See the headings below for more information on the workshops being offered.
+
 ### The Hitchhiker’s Guide to Acoustic Localisation
 
 **Proposal:** This workshop’s main target audience is ecologists and everybody who is
