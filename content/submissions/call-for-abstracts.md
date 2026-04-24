@@ -45,7 +45,7 @@ If you are interested in submitting an abstract, please fill this
 [form](https://docs.google.com/forms/d/e/1FAIpQLSel452IFMiX7W6CTUJn_0THlp6atmFb6G_gA106FcfsvXBDTg/viewform?usp=header)
 in and submit it before April 27th 2026, 23:59 AEST. After assessment of the abstracts
 received by the Scientific and Advisory committees, the author will be notified
-of their proposal outcome before April 15th 2026. If accepted, the author will
+of their proposal outcome before May 15th 2026. If accepted, the author will
 be invited to register and will be contacted by the technical secretariat for
 further details.
 
@@ -74,8 +74,8 @@ with the following information:
 * Abstract (max. 300 words)  
   * *Please provide a brief overview of the communication, highlighting its
   significance to the scope of the WEC. The abstract should have the following
-  structure (not mentioning the headings): Introduction, Methods, Results and
-  clusions.*
+  structure (not mentioning the headings): Introduction, Methods, Results, and
+  Conclusions.*
 * Related topics (up to three): *please, follow our [list of topics](#topics) whenever possible (although new topics can be added). We will try our best to fit the talks into the indicated topic, but be aware that due to room limitations this might not always be possible.*  
   * Topic 1  
   * Topic 2  
