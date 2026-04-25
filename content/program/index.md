@@ -413,7 +413,7 @@ ensure sustained momentum.
       preserve their knowledge and pass it on to future generations – before it's
       too late. Sound Guardians is a cinematic and sonic celebration of east
       Borneo, encouraging the viewer to reflect on their own evolving soundscapes
-      in a time of climate upheaval.
+      in a time of climate upheaval. <a href="https://www.youtube.com/watch?v=Bwo5luquTcQ&feature=youtu.be" target="_blank">View Trailer</a>.
     </p>
     <p>
       <b>Director Bio:</b> Leah is a two-time Emmy Award-winning documentary filmmaker based
