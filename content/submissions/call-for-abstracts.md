@@ -6,7 +6,7 @@ date = 2025-11-13T15:08:32+11:00
 **Call for abstracts is now open!**
 
 The 6th World Ecoacoustics Congress (WEC) will include scientific presentations
-aimed to introduce and discuss new research, and advances in ecoacoustics. 
+aimed to introduce and discuss new research, and advances in ecoacoustics.
 
 Ecoacoustics is an interdisciplinary science that investigates natural and
 anthropogenic sounds, and their relationship with the environment over a wide
@@ -34,7 +34,7 @@ August 2026, in Cairns (Gimuy), Australia.
 Three communication formats are available for the 6th WEC:
 
 * **Open talks:** Oral communications presented in a scientific session for a maximum of 12 minutes (plus 3 minutes of questions).  
-* **Speed talks:** Oral communication presented in a scientific session for a maximum of 5 minutes (no individual question time; questions will be at the end to all the presenters).   
+* **Speed talks:** Oral communication presented in a scientific session for a maximum of 5 minutes (no individual question time; questions will be at the end to all the presenters).
 * **Posters:** Visual reports displayed in printed format the presenting author will stand by the poster and interact with WEC attendees for 45 minutes in a poster session.
 
 Talks and posters will be organised by common themes and topics within the scientific program.
@@ -45,7 +45,7 @@ If you are interested in submitting an abstract, please fill this
 [form](https://docs.google.com/forms/d/e/1FAIpQLSel452IFMiX7W6CTUJn_0THlp6atmFb6G_gA106FcfsvXBDTg/viewform?usp=header)
 in and submit it before April 27th 2026, 23:59 AEST. After assessment of the abstracts
 received by the Scientific and Advisory committees, the author will be notified
-of their proposal outcome before May 15th 2026. If accepted, the author will
+of their proposal outcome before April 30th 2026. If accepted, the author will
 be invited to register and will be contacted by the technical secretariat for
 further details.
 
@@ -88,12 +88,11 @@ with the following information:
   * Yes/No  
   * If yes, you’ll be asked the symposia title and lead chairperson name
 
-
 ## Topics
 
 The options are grouped by the headings of the topics, and the subheadings are examples of such topics - but not limited to. Choose the topic that best applies to your abstract.
 
-### Conservation technology 
+### Conservation technology
 
 * Integration of systems for biodiversity monitoring  
 * Real-time monitoring  
@@ -105,19 +104,19 @@ The options are grouped by the headings of the topics, and the subheadings are e
 * Landscape monitoring following disturbances  
 * Biophony/anthrophony/geophony interactions through soundscape analysis
 
-### Ecological inference using ecoacoustics 
+### Ecological inference using ecoacoustics
 
 * Community level analysis integrating PAM and ML  
 * Statistical techniques to infer occupancy and abundance from ML outputs in PAM  
 * Abundance estimation using PAM
 
-### Applied ecoacoustics 
+### Applied ecoacoustics
 
 * Applications to industry  
 * Conservation science and management  
 * Applications in the natural resource management context
 
-### Monitoring 
+### Monitoring
 
 * Populations and dynamics  
 * Protected areas  
@@ -129,19 +128,18 @@ The options are grouped by the headings of the topics, and the subheadings are e
 * Pre/post Disturbances  
 * Sensor networks
 
-### Future-forward/innovative 
+### Future-forward/innovative
 
 * Grand challenges & future directions  
 * New ecological hypothesis and theories based on acoustic research
 
-### Water 
+### Water
 
 * Freshwater acoustics  
 * Marine acoustics
 
-### Arts 
+### Arts
 
 * Ecoacoustics in the arts  
 * Cultural importance of environmental sounds  
   
-

@@ -26,21 +26,21 @@ menu:
       name: About
       pageRef: /about
       weight: 1
-    - identifier: registration 
-      name: Registration
-      weight: 2
-    - identifier: submissions 
-      name: Submissions
-      weight: 3
-    - identifier: sponsorship
-      name: Sponsorship & Exhibits
-      weight: 4
-    - identifier: location
-      name: Location
-      weight: 5
     - identifier: program 
       name: Program
       pageRef: /program
+      weight: 2
+    - identifier: registration 
+      name: Registration
+      weight: 3
+    - identifier: submissions 
+      name: Submissions
+      weight: 4
+    - identifier: sponsorship
+      name: Sponsorship & Exhibits
+      weight: 5
+    - identifier: location
+      name: Location
       weight: 6
 
 # /registration/** -----------------------------

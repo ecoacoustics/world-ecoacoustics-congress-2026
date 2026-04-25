@@ -121,7 +121,7 @@ nav.hextra-max-navbar-width {
 
 nav.hextra-max-navbar-width a,
 nav.hextra-max-navbar-width button {
-  font-size: var(--sl-font-size-medium); 
+  font-size: var(--sl-font-size-medium);
   font-weight: var(--sl-font-weight-semibold);
 }
 
@@ -133,7 +133,26 @@ nav.hextra-max-navbar-width button {
   padding: 1rem;
 }
 
-table, th, td {
+.highlight-card {
+  border-color: var(--sl-color-primary-600);
+  padding: 0rem;
+}
+
+.highlight-card .hextra-card-image {
+  padding: 0rem;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Highlight card styles - image only, no title */
+.highlight-card .hextra-card-icon {
+  display: none;
+}
+
+table,
+th,
+td {
   border: 1px solid black;
   border-collapse: collapse;
 }
@@ -149,4 +168,199 @@ table, th, td {
 .registration-fees-table td:last-child {
   padding-left: 1rem;
   padding-right: 1rem;
+}
+
+/* ------------ Program table ------------- */
+/* ── Layout wrapper ── */
+.wrap {
+  padding: 1rem 0;
+  overflow-x: auto;
+}
+
+/* allows horizontal scroll on small screens */
+
+/* ── Main schedule table ── */
+table.s {
+  border-collapse: collapse;
+  width: fit-content;
+  font-size: 14px;
+  table-layout: fixed;
+}
+
+/* th = table header cell (the day labels row) */
+table.s th {
+  padding: 10px 14px;
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--sl-color-gray-900);
+  border-bottom: 1.5px solid var(--sl-color-primary-950);
+  text-align: left;
+}
+
+/* td = table data cell (every non-header cell) */
+table.s td {
+  padding: 10px 14px;
+  vertical-align: top;
+  border-bottom: 1.5px solid var(--sl-color-primary-950);
+  line-height: 1.5;
+}
+
+/* tcol = time column — the narrow leftmost column showing "Morning", "Lunch" etc. */
+col.tcol {
+  width: 90px;
+}
+
+/* tc = time cell — styling for the actual time-of-day label cells in that column */
+.tc {
+  color: var(--sl-color-gray-900);
+  font-size: 12px;
+  font-weight: 500;
+  text-align: right;
+  padding-right: 8px !important;
+  padding-left: 4px !important;
+  white-space: nowrap;
+}
+
+/* sub = sub-label — small secondary line inside a cell (e.g. "Keynote / panel" under "Plenary 1") */
+.sub {
+  display: block;
+  font-size: 13px;
+  color: inherit;
+  opacity: 0.8;
+  margin-top: 2px;
+}
+
+/* ── Category color tokens ── */
+:root {
+  --clr-arr-bg: #2d6b0f;
+  --clr-tea-bg: #1a5c9e;
+  --clr-wks-bg: #6b3aa8;
+  --clr-cer-bg: #7a4510;
+  --clr-ple-bg: #8a3520;
+  --clr-ses-bg: #0a6350;
+  --clr-ngt-bg: #8a2d52;
+  --clr-lun-bg: #555553;
+
+  --clr-arr-fg: #f0fada;
+  --clr-tea-fg: #e0f6ff;
+  --clr-wks-fg: #f3eeff;
+  --clr-cer-fg: #fff3e0;
+  --clr-ple-fg: #ffebe4;
+  --clr-ses-fg: #e0fff5;
+  --clr-ngt-fg: #ffe8f2;
+  --clr-lun-fg: #f7f5f0;
+}
+
+.dark {
+  --clr-arr-bg: #1e4a08;
+  --clr-tea-bg: #0c3d72;
+  --clr-wks-bg: #4e2880;
+  --clr-cer-bg: #5a3005;
+  --clr-ple-bg: #61200f;
+  --clr-ses-bg: #064535;
+  --clr-ngt-bg: #621b36;
+  --clr-lun-bg: #3a3937;
+  /* fg stays the same */
+}
+
+/* ── Apply tokens ── */
+table.s td.c-arr {
+  background: var(--clr-arr-bg);
+  color: var(--clr-arr-fg);
+}
+
+table.s td.c-tea {
+  background: var(--clr-tea-bg);
+  color: var(--clr-tea-fg);
+}
+
+table.s td.c-wks {
+  background: var(--clr-wks-bg);
+  color: var(--clr-wks-fg);
+}
+
+table.s td.c-cer {
+  background: var(--clr-cer-bg);
+  color: var(--clr-cer-fg);
+}
+
+table.s td.c-ple {
+  background: var(--clr-ple-bg);
+  color: var(--clr-ple-fg);
+}
+
+table.s td.c-ses {
+  background: var(--clr-ses-bg);
+  color: var(--clr-ses-fg);
+}
+
+table.s td.c-ngt {
+  background: var(--clr-ngt-bg);
+  color: var(--clr-ngt-fg);
+}
+
+table.s td.c-lun {
+  background: var(--clr-lun-bg);
+  color: var(--clr-lun-fg);
+}
+
+/* link styling inside cells — inherits the cell's coloured text, underlined */
+table.s a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+/* ::after pseudo-element appends a ↗ arrow icon to every link to signal it opens elsewhere */
+table.s a::after {
+  content: " ↗";
+  font-size: 12px;
+}
+
+/* Film screening */
+
+.film-layout {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin: 2rem 0;
+}
+
+.film-poster {
+  flex: 0 1 420px;
+  min-width: 0;
+}
+
+.film-poster img {
+  width: 100%;
+  border-radius: 6px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.film-info {
+  flex: 1;
+  min-width: 300px;
+}
+
+.filmmaker-photo {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  text-align: center;
+}
+
+.filmmaker-photo img {
+  width: 220px;
+  height: 220px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+@media (max-width: 868px) {
+  .film-layout {
+    flex-direction: column;
+  }
 }

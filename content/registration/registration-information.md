@@ -14,10 +14,10 @@ country, and Regular bird, and two registration options: Member and Non-member.
 The prices for each type of registration are listed in the tables below.
 
 {{< callout icon="sparkles" >}}
-**Early bird registration is available until the 1st of May 2026, 23:59 AEST.**
+**Early bird registration is available until the 8th of May 2026, 23:59 AEST.**
 {{< /callout >}}
 
-### For Members:
+### For Members
 
 The Member registration option is open to everyone, including people who are not
 already members of the ISE (International Society of Ecoacoustics). The
@@ -77,7 +77,7 @@ For more information about ISE membership, please visit the [ISE website](https:
 	</tbody>
 </table>
 
-### Non-members:
+### Non-members
 
 <table class="registration-fees-table">
 	<thead>
@@ -128,4 +128,4 @@ For more information about ISE membership, please visit the [ISE website](https:
 Afternoon tea & coffee; Welcome function (drinks & canapes)
 
 *All prices are in Australian dollars (AUD) and include GST (Goods and Services
-Tax)*. 
+Tax)*.

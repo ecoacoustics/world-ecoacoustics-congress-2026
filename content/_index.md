@@ -10,7 +10,7 @@ heroImageAttribution: <a href="https://www.instagram.com/realfocus_cairns/">@rea
 We are excited to invite you to participate in the 6th World Ecoacoustics
 Congress (WEC), taking place in Cairns (Gimuy), Australia, **17th - 20th of
 August** 2026. The WEC happens every 2 years and attracts hundreds of delegates
-to discuss advances and innovations in Ecoacoustics. 
+to discuss advances and innovations in Ecoacoustics.
 
 {{< callout icon="sparkles">}}
   Registration is now open! Take advantage of the early bird pricing and secure your spot at the congress. <a href="https://www.eventbrite.com.au/e/world-ecoacoustics-congress-tickets-1984242648175">Click here to register</a>.
@@ -18,6 +18,14 @@ to discuss advances and innovations in Ecoacoustics.
 
 {{< callout icon="sparkles">}}
 **Abstract submissions** are open until the 27th of April, 2026, 23:59 AEST [Click here to submit your abstract](./submissions/call-for-abstracts/).
+{{< /callout >}}
+
+{{< callout type="info">}}
+We have now reached out to all symposia and workshop leads with the outcome of
+your submission. We have also contacted registered delegates with information
+about workshops and other matters. If you haven't seen anything in your inbox,
+please check your junk/spam folders or reach out to us on
+<ecoacoustics2026@gmail.com>.
 {{< /callout >}}
 
 <br>
@@ -30,18 +38,15 @@ If you would like to receive email updates with the latest news about the congre
 
 <sl-button href="https://docs.google.com/forms/d/e/1FAIpQLSdWWfI2_Bs4OnUU2pEMp7zzH95DIi2Rge77Iom7tUb9slV3wg/viewform?usp=header" variant="primary" outline>Register</sl-button>
 
-
-
-
 # Sponsors
 
 {{< cards cols="2" >}}
-{{< card image="/ecoacoustics_logo_6c.gif" title="International Society for Ecoacoustics" link="https://sites.google.com/site/ecoacousticssociety/" >}}
-{{< card image="/images/oe-logo-horizontal.svg" link="https://openecoacoustics.org" >}}
+{{< card image="/ecoacoustics_logo_6c.gif" title="International Society for Ecoacoustics" link="<https://sites.google.com/site/ecoacousticssociety/>" >}}
+{{< card image="/images/oe-logo-horizontal.svg" link="<https://openecoacoustics.org>" >}}
 {{< /cards >}}
 
 # Partners
 
 {{< cards >}}
-{{< card image="/images/NRMjobs_logo.jpg" link="https://nrmjobs.com.au" >}}
+{{< card image="/images/NRMjobs_logo.jpg" link="<https://nrmjobs.com.au>" >}}
 {{< /cards >}}
