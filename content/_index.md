@@ -17,7 +17,7 @@ to discuss advances and innovations in Ecoacoustics.
 {{< /callout >}}
 
 {{< callout icon="sparkles">}}
-**Abstract submissions** are open until the 27th of April, 2026, 23:59 AEST [Click here to submit your abstract](./submissions/call-for-abstracts/).
+**Abstract submissions** - We are now only accepting poster abstracts for the congress. [Click here to submit your poster abstract](https://docs.google.com/forms/d/e/1FAIpQLSc99f61zrdxxuInvA6TAZU8SvwOeLdB97F4QeeKeschHV0lhQ/viewform?usp=dialog).
 {{< /callout >}}
 
 {{< callout type="info">}}

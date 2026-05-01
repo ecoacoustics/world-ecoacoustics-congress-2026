@@ -13,6 +13,8 @@ params:
     email: "ecoacoustics2026@gmail.com"
   footer:
     displayPoweredBy: false
+  page:
+    width: wide
   navbar:
     logo:
       path: ecoacoustics_logo_congress_version.png

@@ -3,7 +3,11 @@ title = 'Call for Abstracts'
 date = 2025-11-13T15:08:32+11:00
 +++
 
-**Call for abstracts is now open!**
+**Call for poster abstracts is open!**
+
+We are now only accepting poster abstracts for the congress:
+
+<sl-button href="https://docs.google.com/forms/d/e/1FAIpQLSc99f61zrdxxuInvA6TAZU8SvwOeLdB97F4QeeKeschHV0lhQ/viewform?usp=dialog" variant="primary" outline size="large">Poster abstract submissions</sl-button>
 
 The 6th World Ecoacoustics Congress (WEC) will include scientific presentations
 aimed to introduce and discuss new research, and advances in ecoacoustics.
@@ -25,9 +29,7 @@ We are excited to announce that the call for abstracts is now open and invite
 you to submit your proposal at this upcoming event, scheduled for 17th-20th of
 August 2026, in Cairns (Gimuy), Australia.
 
-<sl-button href="https://docs.google.com/forms/d/e/1FAIpQLSel452IFMiX7W6CTUJn_0THlp6atmFb6G_gA106FcfsvXBDTg/viewform?usp=header" variant="primary" outline size="large">Abstract submissions</sl-button>
-
-<u>**Submissions close on the 27th of April, 2026, 23:59 AEST.**</u>
+<!-- <u>**Submissions close on the 27th of April, 2026, 23:59 AEST.**</u> -->
 
 ## Communication formats
 

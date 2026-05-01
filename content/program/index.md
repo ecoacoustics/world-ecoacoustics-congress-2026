@@ -92,7 +92,7 @@ title = "Program"
     <tr>
       <td class="tc">Evening</td>
       <td class="c-ngt">Welcome reception*</td>
-      <td></td>
+      <td>Australasian Chapter of Ecoacoustics AGM <span class="sub">Location TBD</span></td>
       <td class="c-ngt">Dinner**</td>
       <td></td>
     </tr>
