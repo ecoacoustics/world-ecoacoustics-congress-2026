@@ -1,0 +1,14 @@
+{{- $cards := slice
+	(partial "shortcodes/card" (dict
+		"title" "NRMjobs"
+		"image" ("/images/NRMjobs_logo.jpg" | relURL)
+		"link" "https://nrmjobs.com.au"
+	))
+  (partial "shortcodes/card" (dict
+    "title" "Hilton Cairns"
+    "image" ("/images/CRNHI_Blue_RGB.jpg" | relURL)
+    "link" "https://www.hilton.com/en/hotels/crnhitw-hilton-cairns/"
+  ))
+-}}
+
+{{- partial "shortcodes/cards" (dict "cols" 2 "content" (delimit $cards "" | safeHTML)) -}}

@@ -131,6 +131,9 @@ nav.hextra-max-navbar-width button {
 
 .hextra-card-image {
   padding: 1rem;
+  object-fit: contain;
+  width: 100%;
+  height: auto;
 }
 
 .highlight-card {

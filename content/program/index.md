@@ -433,6 +433,26 @@ ensure sustained momentum.
 
 TBA
 
-### Frontier Labs workshop
+### How to PAM – Theory and Praxis of Deploying an Acoustic Recorder
 
-TBA
+We aim to introduce participants to the theoretical foundations, practical
+applications, and growing relevance of Passive Acoustic Monitoring (PAM) in
+ecological research and consultancy.
+
+The short theoretical part will be followed by a practical demonstration: using
+Frontier Labs’ BAR-V2 units, we will show how to create and install a recording
+schedule, how to successfully deploy the recorder, and how to retrieve the data
+at the end of the deployment. Different features and applications of the device
+will be highlighted. Attendees are invited to follow along on their own laptops,
+using our free scheduler app; however, this is not a requirement to participate.
+
+The goal of this session is to equip attendees with a deeper understanding of
+PAM and its increasing value in the ecological field, as well as giving them a
+first glimpse into the practical side of the methodology. Participants are
+invited to share their questions and their own experiences regarding bioacoustic
+research. A lively and open discourse is hoped for, exploring the possibilities,
+challenges, and future directions of PAM together.
+
+**Speaker**: Kieran Aland
+
+**Organisation**: Frontier Labs  

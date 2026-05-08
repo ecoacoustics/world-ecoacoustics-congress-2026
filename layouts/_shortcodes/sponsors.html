@@ -1,0 +1,23 @@
+{{- $cards := slice
+	(partial "shortcodes/card" (dict
+		"title" "International Society for Ecoacoustics"
+		"image" ("/ecoacoustics_logo_6c.gif" | relURL)
+		"link" "https://sites.google.com/site/ecoacousticssociety/"
+	))
+	(partial "shortcodes/card" (dict
+		"title" "Open Ecoacoustics"
+		"image" ("/images/oe-logo-horizontal.svg" | relURL)
+		"link" "https://openecoacoustics.org"
+	))
+	(partial "shortcodes/card" (dict
+		"title" "Frontier Labs"
+		"image" ("/images/FrontierLabsLOGO2023KoalaBiocousticRecorders.png" | relURL)
+		"link" "https://www.frontierlabs.com.au"
+	))
+	(partial "shortcodes/card" (dict
+		"title" "Faunatech"
+		"image" ("/images/FaunatechLogoVerticalColour.png" | relURL)
+		"link" "https://www.faunatech.com.au"
+	))
+-}}
+{{- partial "shortcodes/cards" (dict "cols" 2 "content" (delimit $cards "" | safeHTML)) -}}
