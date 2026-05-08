@@ -21,6 +21,11 @@ params:
       dark: ecoacoustics_logo_congress_version.png
       height: 100
       width: 120
+  banner:
+    key: "announcement"
+    message: |
+       ⚠️ Due to an unexpected issue, early bird registration closed before its intended deadline ⚠️ 
+       If you are trying to register as an early bird, **please email** ecoacoustics2026@gmail.com and we will work with you to ensure you can still register at the early bird rate. We apologize for the inconvenience. 
 
 menu:
   main:
