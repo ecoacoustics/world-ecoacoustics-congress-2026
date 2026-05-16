@@ -13,11 +13,10 @@ August** 2026. The WEC happens every 2 years and attracts hundreds of delegates
 to discuss advances and innovations in Ecoacoustics.
 
 {{< callout icon="sparkles">}}
-**Registration is now open!** Take advantage of the early bird pricing and secure your spot at the congress. <a href="https://www.eventbrite.com.au/e/world-ecoacoustics-congress-tickets-1984242648175">Click here to register</a>.
+**Registration is now open!** <a href="https://www.eventbrite.com.au/e/world-ecoacoustics-congress-tickets-1984242648175">Click here to register</a>.
 
 **Abstract submissions** - We are now only accepting poster abstracts for the congress. [Click here to submit your poster abstract](https://docs.google.com/forms/d/e/1FAIpQLSc99f61zrdxxuInvA6TAZU8SvwOeLdB97F4QeeKeschHV0lhQ/viewform?usp=dialog).
 
-**Student sponsorship** - The student sponsorship form will close on the 10th of May 23:59 AEST. [Student Travel Grant Application Form](https://docs.google.com/forms/d/e/1FAIpQLScLibal3H90ruefqlBFgOGg7Ej-pG1LlnPJ4uSq7m3AbbjpZw/viewform).
 {{< /callout >}}
 
 {{< callout type="info">}}
