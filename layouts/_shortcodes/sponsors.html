@@ -19,5 +19,10 @@
 		"image" ("/images/FaunatechLogoVerticalColour.png" | relURL)
 		"link" "https://www.faunatech.com.au"
 	))
+	(partial "shortcodes/card" (dict
+		"title" "Titley Scientific"
+		"image" ("/images/cropped.png" | relURL)
+		"link" "https://www.titley-scientific.com"
+	))
 -}}
 {{- partial "shortcodes/cards" (dict "cols" 2 "content" (delimit $cards "" | safeHTML)) -}}
