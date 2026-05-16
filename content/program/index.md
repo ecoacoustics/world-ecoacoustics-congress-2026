@@ -173,6 +173,51 @@ up to communities. I argue that ecoacoustics will be most powerful when
 soundscapes are understood not only as indicators of presence, but as outcomes
 of ecological filtering and cultural evolution in a rapidly changing world.
 
+-------------------
+
+### Dr. Wendy Erb
+
+{{< cards cols="3" >}}
+{{< card class="highlight-card" image="wendy_erb_1.jpeg" >}}
+{{< card  class="highlight-card" image="wendy_erb_2.jpeg" >}}
+{{< card  class="highlight-card" image="wendy_erb_3.jpeg" >}}
+{{< /cards >}}
+
+With a background in biological anthropology and animal behavior, Dr. Wendy Erb
+has studied the ecology, social behavior, health, communication, and
+conservation of wild primates in Indonesia for the last two decades. Wendy’s
+active participatory research program draws on diverse theories and methods from
+the social and natural sciences – with a central focus on the sounds of nature –
+to understand the shared worlds of primates and people. Having lived and worked
+with Indigenous communities in Indonesia since 2005, Wendy is deeply committed
+to cultivating deep relationships and co-creating meaningful research that
+matters to local people, while constructively transforming the processes and
+outcomes of sound-based science.
+
+#### Tuning in together: Collaborative sound science reveals resonance across people, nature, and place
+
+Wendy M. Erb <sup>1,2</sup><br>
+<small><sup>1</sup> Cornell K. Lisa Yang Center for Conservation Bioacoustics, Cornell University, USA</small>  
+<small><sup>2</sup> Cornell Lab of Ornithology, Cornell University, USA</small>
+
+Soundscapes are a potent yet under-utilized avenue for understanding and
+monitoring human-environment relationships. Sounds collected using autonomous
+recording units (ARUs) are not only useful for understanding wildlife ecology;
+they also document soundscapes that hold cultural meaning, represent
+environmental knowledge, and shape community identities and practices. While
+ARUs can provide snapshots of sound events, the embodied sensory knowledge of
+people can enrich and challenge understandings of soundscapes and landscapes. My
+work with customary knowledge-holders in front-line communities examines the
+impacts of land-use change, wildfires, and urban development on Indonesia’s
+forests and human and non-human residents. Weaving together data from ARUs,
+soundwalks, listening sessions, and interviews, my partners and I document how
+human-environment connection is captured, produced, and understood through
+sound. This work explores the conservation potential of adopting an inclusive,
+bioculturally grounded, sound-based research praxis that braids multiple ways of
+knowing and demonstrates how transdisciplinary action research can lead to
+improved understandings of and outcomes for the connections among people,
+nature, and place.
+
 ## Monday Workshops
 
 Workshops will be held on the Monday. Registered congress attendees will receive
