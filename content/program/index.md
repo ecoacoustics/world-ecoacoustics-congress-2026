@@ -54,12 +54,10 @@ title = "Program"
     </tr>
     <tr>
       <td class="tc">Lunch</td>
-      <td class="c-lun">Lunch</td>
-      <td class="c-lun">Lunch<span class="sub">
-      <a href="#film">'Sound Guardians' screening</a>
-      </span></td>
-      <td class="c-lun">Lunch<span class="sub">Wildlife Acoustics Workshop</span></td>
-      <td class="c-lun">Lunch<span class="sub">Frontier Labs Workshop</span></td>
+      <td class="c-lun">Lunch<span class="sub"> <a href="#film">'Sound Guardians' screening</a> </span></td>
+      <td class="c-lun">Lunch<span class="sub"> <a href="#ecocom">EcoCommons Workshop</a> </span></td>
+      <td class="c-lun">Lunch<span class="sub"><a href="#wa">Wildlife Acoustics Workshop</a></span></td>
+      <td class="c-lun">Lunch<span class="sub"><a href="#fl">Frontier Labs Workshop</a></span></td>
     </tr>
     <tr>
       <td class="tc">Afternoon</td>
@@ -440,6 +438,60 @@ ensure sustained momentum.
 
 ## Lunchtime Workshops
 
+### Using the EcoCommons Platform to Run Species Distribution Models with Acoustic Occurrence Data {#ecocom}
+
+{{< details title="**Proposal**" >}}
+
+EcoCommons Australia provides a comprehensive platform for ecological modelling,
+featuring thousands of curated datasets and expert-developed workflows for
+species distribution and community modelling.
+
+This workshop will begin with a brief introduction to species distribution model
+(SDM) theory, followed by a guided tour of the platform. Participants will learn
+how to incorporate occurrence data derived from acoustic monitoring into SDMs,
+with a focus on selecting appropriate occurrence and environmental data for
+different research questions. This workshop is suitable for beginners to
+intermediate users with a basic understanding of ecological data. We will cover:
+
+* Basic concepts and applications of SDMs and occurrence data
+  * Manual surveys, camera trapping, passive acoustic monitoring (PAM)
+* How to access biodiversity records from open data portals via EcoCommons platform
+* Converting acoustic data into occurrence records
+* An introduction to the EcoCommons platform and its 50,000+ curated environmental datasets
+* Selecting appropriate environmental layers for modelling
+* Building and running SDMs using acoustic occurrence data and a selection of 19 available algorithms on the EcoCommons platform
+* Exploring and interpreting model outputs for use in biodiversity and conservation research and management
+* Overview of EcoCommons coding notebooks and Occupancy Model example
+
+By the end of the workshop, participants will understand how to:
+
+* Navigate the EcoCommons platform
+* Select fit-for-purpose data for your research question
+* Run robust and repeatable SDMs with occurrence data derived from acoustic monitoring
+* Produce and interpret SDM outputs (e.g. model evaluation metrics, habitat suitability maps)
+* Access EcoCommons coding notebooks
+
+{{< /details >}}
+
+**Duration:** 1-1.5 hours
+
+**Workshop leads:**
+
+{{< details title="Dr Ryan Newis (<ryan.newis@qcif.edu.au>)" closed="true" >}}
+Dr Ryan Newis is an ecological data scientist and modeller with extensive experience in the environmental sciences, data integration and analysis, species distribution modelling, and reproducible research workflows. As lead investigator on state and national projects, he develops scalable ecological modelling tools that inform biodiversity management and conservation planning. At QCIF, he contributes to the advancement of digital research infrastructure such as the EcoCommons platform, reproducible coding notebooks, and delivering stakeholder-driven environmental solutions. With a PhD from Griffith University in landscape and insect ecology, he combines strong analytical expertise, technical leadership, and applied research to bridge science and policy outcomes.
+{{< /details >}}
+
+{{< details title="Dr Renee Piccolo (<r.piccolo@uq.edu.au>)" closed="true" >}}
+Dr Renee Piccolo is an ecological researcher and spatial analyst with expertise in biodiversity monitoring, restoration ecology, ecological data management, and environmental decision support. Her work focuses on the analysis and integration of large-scale biodiversity datasets, including camera trap monitoring programs used to assess wildlife populations, support conservation reporting, and inform evidence-based management. As a Postdoctoral Research Fellow at the University of Queensland and the Wildlife Observatory of Australia (WildObs), she collaborates with researchers, government agencies, and industry partners to improve biodiversity data workflows and deliver applied conservation outcomes. She completed her PhD through Griffith University and CSIRO, where she developed a decision-support framework to assess habitat restoration feasibility under complex biophysical, social, and governance constraints, using mangrove ecosystems as a case study. With a background spanning environmental consultancy, wildlife handling, and practical land management, she combines interdisciplinary research, analytical expertise, and on-ground experience to bridge science, policy, and restoration action.
+{{< /details >}}
+
+**Prerequisites:** Please try to login to EcoCommons with your institutional
+account (if you have one) through Australian Access Federation (AAF). If you
+can't find your institution via AAF, or don't have one, please request a free
+EcoCommons Account prior to the workshop.
+
+**Materials required:** Laptop that can access internet.
+
 ### 'Sound Guardians' film screening {#film}
 
 <div class="film-layout">
@@ -474,11 +526,11 @@ ensure sustained momentum.
   </div>
 </div>
 
-### Wildlife Acoustics workshop
+### Wildlife Acoustics workshop {#wa}
 
 TBA
 
-### How to PAM – Theory and Praxis of Deploying an Acoustic Recorder
+### How to PAM – Theory and Praxis of Deploying an Acoustic Recorder {#fl}
 
 We aim to introduce participants to the theoretical foundations, practical
 applications, and growing relevance of Passive Acoustic Monitoring (PAM) in
