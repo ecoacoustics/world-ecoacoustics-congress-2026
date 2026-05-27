@@ -216,6 +216,44 @@ knowing and demonstrates how transdisciplinary action research can lead to
 improved understandings of and outcomes for the connections among people,
 nature, and place.
 
+-------------------
+
+### Dr Zuzana Burivalova
+
+{{< cards cols="3" >}}
+{{< card class="highlight-card" image="zuzana_1.jpg" >}}
+{{< card  class="highlight-card" image="zuzana_2.png" >}}
+{{< card  class="highlight-card" image="zuzana_3.jpeg" >}}
+{{< /cards >}}
+
+I am an Associate Professor at the University of Wisconsin-Madison, where I am affiliated with the department of Forest
+& Wildlife Ecology, The Nelson Institute for Environmental Studies, and the Center for Sustainability and the Global
+Environment. I am the Principal Investigator of the Sound Forest Lab, where we research ways to protect biodiversity in
+tropical forests, both forests that are used by people, and those set aside for conservation, from national parks to
+small community protected areas. We try to answer questions in tropical forest conservation and ecology using both old
+and new technologies, including bio- and ecoacoustics. I am the 2021 winner of the nature award for driving global
+impact and a recipient of the 2023 WINGS Women of Discovery Award.
+
+#### What role will ecoacoustics play in the post 2030 conservation agenda, and how can we contribute?
+
+Ecoacoustics has transformed from a niche discipline into a globally used approach for monitoring biodiversity across
+ecosystems and scales. Advances in passive acoustic monitoring, machine learning, soundscape analysis, and remote
+sensing integration now allow us to collect unprecedented volumes of ecological data from some of the most remote and
+threatened environments on Earth. Yet important questions remain: when do acoustic measurements actually help
+conservation decisions? Are there ways to facilitate the responsible and effective uptake of ecoacoustics by the
+conservation sector?
+
+In this talk, I explore gaps between acoustic data collection and conservation action. I argue that the future impact of
+ecoacoustics will depend not only on improving algorithms or expanding monitoring networks, but on investigating how
+ecoacoustics fits in the realities of decision-making in conservation. The ultimate value of sound-based approaches to
+conservation, including species detection and soundscape analysis, depends on whether they provide information that is
+interpretable, credible, scalable, and relevant to specific conservation decisions.
+
+Drawing on examples from tropical forests and large-scale biodiversity monitoring initiatives, I will discuss several
+challenges: making conservation meaning from acoustic measurements, quantifying uncertainty and evidence strength,
+building long-term baselines, navigating conflicting results, and ensuring that monitoring systems remain equitable and
+locally relevant.
+
 ## Monday Workshops
 
 Workshops will be held on the Monday. Registered congress attendees will receive

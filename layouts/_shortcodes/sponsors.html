@@ -4,8 +4,15 @@
 		"image" ("/ecoacoustics_logo_6c.gif" | relURL)
 		"link" "https://sites.google.com/site/ecoacousticssociety/"
 	))
+  	(partial "shortcodes/card" (dict
+		"title" "ARDC"
+    "subtitle" "The Australian Research Data Commons (ARDC) is Australia's leading research data infrastructure facility. The ARDC is enabled by the Australian Government's National Collaborative Research Infrastructure Strategy (NCRIS). URL: ardc.edu.au; Contact: contact\\@ardc.edu.au"
+		"image" ("/images/ARDClogoRGB.png" | relURL)
+		"link" "https://ardc.edu.au"
+	))
 	(partial "shortcodes/card" (dict
 		"title" "Open Ecoacoustics"
+    "subtitle" "Open Ecoacoustics is a co-investment partnership with the ARDC, and part of the Machine Observation Data Processing Infrastructure program within the ARDC Planet Research Data Commons."
 		"image" ("/images/oe-logo-horizontal.svg" | relURL)
 		"link" "https://openecoacoustics.org"
 	))
@@ -24,5 +31,6 @@
 		"image" ("/images/Titley-Scientific-inline.png" | relURL)
 		"link" "https://www.titley-scientific.com"
 	))
+
 -}}
 {{- partial "shortcodes/cards" (dict "cols" 2 "content" (delimit $cards "" | safeHTML)) -}}
