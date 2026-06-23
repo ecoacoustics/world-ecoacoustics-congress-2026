@@ -564,9 +564,23 @@ EcoCommons Account prior to the workshop.
   </div>
 </div>
 
-### Wildlife Acoustics workshop {#wa}
+### From Micro 2 to SM5Bat: Simplifying Passive Recorder Workflow with the Song Meter Configurator App {#wa}
 
-TBA
+Discover how Wildlife Acoustics passive recorders can be used for your next ecoacoustics project. In this interactive
+hands-on workshop, participants will be introduced to Wildlife Acoustics passive recorder range, from the compact Song
+Meter Micro 2 to the powerful everything recorder SM5Bat, and how the Song Meter Configurator app can enhance an
+ecoacoustics project workflow. Through this hands-on session, participants will learn how to simplify recorder set up
+through connecting devices, customising recording schedules, configurating settings, and preparing recorders for
+deployment, all using bluetooth from their phone or tablet.
+
+Whether you are new to passive acoustic monitoring or looking to improve your workflow, this session will help you get
+up and running quickly and confidently.
+
+Participants are encouraged to download the app before the session, but this is not essential to participate.
+
+**Speaker**: Dr Lisa Cawthen
+
+**Organisation**: Wildlife Acoustics
 
 ### How to PAM – Theory and Praxis of Deploying an Acoustic Recorder {#fl}
 
