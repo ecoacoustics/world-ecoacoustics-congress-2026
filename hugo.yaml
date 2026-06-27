@@ -76,10 +76,6 @@ menu:
       pageRef: /sponsorship/sponsors
       parent: sponsorship
       weight: 2
-    - name: Exhibitors
-      pageRef: /sponsorship/exhibitors
-      parent: sponsorship
-      weight: 3
 # /location/** ------------------------------
     - name: Location and Venue
       pageRef: /location/venue

@@ -3,7 +3,7 @@ title = 'Call for Workshops'
 date = 2025-11-13T15:08:49+11:00
 +++
 
-**Call for workshops is now open.**
+**Call for Workshops is now closed. Thank you to everyone who submitted a proposal.**
 
 We strongly encourage submissions from delegates in developing nations and with
 diverse backgrounds, as we aim to foster a diverse and inclusive program. See
@@ -21,15 +21,13 @@ in mind that there are a limited number of rooms for workshops.
 
 <u>**Submissions close on the 1st of March 2026.**</u>
 
-<sl-button href="https://docs.google.com/forms/d/e/1FAIpQLSdh-KWkdziy51pIRXprK03rhl4OjdQySLDYoYF6yYCDBgfwlA/viewform?usp=dialog" variant="primary" outline size="large">Workshop submissions</sl-button>
-
 Themes below are suggestions based on community requests, feel free to suggest
 other workshops that might be relevant.
 
 ## Suggested themes
 
 - Recogniser building  
-- Standardisation of PAM metadata   
+- Standardisation of PAM metadata
 - Annotation protocols  
 - Working with large datasets  
 - Global databases of annotated soundscapes  

@@ -54,8 +54,8 @@ title = "Program"
     </tr>
     <tr>
       <td class="tc">Lunch</td>
-      <td class="c-lun">Lunch<span class="sub"> <a href="#film">'Sound Guardians' screening</a> </span></td>
-      <td class="c-lun">Lunch<span class="sub"> <a href="#ecocom">EcoCommons Workshop</a> </span></td>
+      <td class="c-lun">Lunch<span class="sub"> <a href="#film">'Sound Guardians' screening</a></span></td>
+      <td class="c-lun">Lunch<span class="sub">ARDC Workshop TBC</span></td>
       <td class="c-lun">Lunch<span class="sub"><a href="#wa">Wildlife Acoustics Workshop</a></span></td>
       <td class="c-lun">Lunch<span class="sub"><a href="#fl">Frontier Labs Workshop</a></span></td>
     </tr>
@@ -71,7 +71,7 @@ title = "Program"
       <td class="c-wks"></td>
       <td class="c-ses">Session 2</td>
       <td class="c-ses">Session 5<span class="sub">Poster session</span></td>
-      <td class="c-ses">Session 8<span class="sub">ISE AGM</span></td>
+      <td class="c-ses">Session 8</td>
     </tr>
     <tr>
       <td class="tc">Mid-afternoon</td>
@@ -84,7 +84,7 @@ title = "Program"
       <td class="tc"></td>
       <td class="c-wks"></td>
       <td class="c-ses">Session 3</td>
-      <td class="c-ses">Session 6</td>
+      <td class="c-ses">Session 6<span class="sub">ISE AGM</span></td>
       <td class="c-ses">Session 9</td>
     </tr>
     <tr>
@@ -404,39 +404,6 @@ funding.
 
 **Maximum number of participants:** 25
 
-### Reservoir Project
-
-{{< details title="**Proposal**" >}}
-
-This participatory workshop explores relationships between water, sound, and
-ecological grief through embodied listening and collaborative sonic practice.
-Rooted in my interdisciplinary background in sound art, somatics, and
-permaculture design, the workshop invites participants to consider water not
-only as environmental infrastructure but as a living system we inhabit. Drawing
-from hydrofeminist perspectives in Thinking with Water and ecoacoustic practices
-such as Water and Memory by Annea Lockwood, the session examines how sound and
-embodied awareness can restore relational ways of knowing water in times of
-ecological crisis.
-
-Participants begin with guided somatic listening exercises that attune attention
-to the body as a fluid system shaped by breath and internal rhythms. Through
-small gestures with water, stones, and vessels, they explore how subtle
-movements generate sound and how water can function as a sonic collaborator. The
-workshop culminates in a participatory ritual adapted from grief practices
-described by Francis Weller. Participants place a stone representing personal or
-ecological grief into a shared vessel of water while others create soft
-wave-like vocalizations. The sounds of stones, water, and voices are recorded
-and played back as a temporary sonic sculpture, emphasizing collective listening
-and relational ecology.
-
-{{< /details >}}
-
-**Duration:** Half-day (approx. 3 hours)
-
-**Workshop lead:** Jai - Arizona State University
-
-**Maximum number of participants:** 22
-
 ### From Priorities to Practice: Building a Global Bioacoustics "Network of Networks"
 
 {{< details title="**Proposal**" >}}
@@ -474,9 +441,7 @@ ensure sustained momentum.
 
 **Maximum number of participants:** 45
 
-## Lunchtime Workshops
-
-### Using the EcoCommons Platform to Run Species Distribution Models with Acoustic Occurrence Data {#ecocom}
+### Using the EcoCommons Platform to Run Species Distribution Models with Acoustic Occurrence Data
 
 {{< details title="**Proposal**" >}}
 
@@ -529,6 +494,8 @@ can't find your institution via AAF, or don't have one, please request a free
 EcoCommons Account prior to the workshop.
 
 **Materials required:** Laptop that can access internet.
+
+## Lunchtime Workshops
 
 ### 'Sound Guardians' film screening {#film}
 
