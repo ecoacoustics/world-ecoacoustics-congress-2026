@@ -2,98 +2,70 @@
 title = "Program"
 +++
 
-## Overview
+The detailed version of the program is available in PDF format to view or download [here](WEC_2026_Program.pdf).
+
+## Program Overview
+
+This table provides an overview of the program. Please refer to the PDF version of the full program for more details.
 
 <div class="wrap">
-<table class="s">
+<table class="s program-detail">
   <colgroup><col class="tcol"/><col/><col/><col/><col/></colgroup>
-  <thead>
-    <tr>
-      <th></th>
-      <th>Mon 17 Aug</th>
-      <th>Tue 18 Aug</th>
-      <th>Wed 19 Aug</th>
-      <th>Thu 20 Aug</th>
-    </tr>
-  </thead>
   <tbody>
-    <tr>
-      <td class="tc">Morning</td>
-      <td class="c-arr">Arrival tea &amp; coffee</td>
-      <td class="c-arr">Arrival tea &amp; coffee</td>
-      <td class="c-arr">Arrival tea &amp; coffee</td>
-      <td class="c-arr">Arrival tea &amp; coffee</td>
-    </tr>
-    <tr>
-      <td class="tc"></td>
-      <td class="c-wks">Workshops</td>
-      <td class="c-cer">Welcome to Country<span class="sub">Opening ceremony</span></td>
-      <td class="c-ple">Plenary 3<span class="sub">Keynote / panel</span></td>
-      <td class="c-ple">Plenary 5<span class="sub">Keynote / panel</span></td>
-    </tr>
-    <tr>
-      <td class="tc"></td>
-      <td class="c-wks"></td>
-      <td class="c-ple">Plenary 1<span class="sub">Keynote / panel</span></td>
-      <td class="c-ple"></td>
-      <td class="c-ple"></td>
-    </tr>
-    <tr>
-      <td class="tc">Mid-morning</td>
-      <td class="c-tea">Morning tea</td>
-      <td class="c-tea">Morning tea</td>
-      <td class="c-tea">Morning tea</td>
-      <td class="c-tea">Morning tea</td>
-    </tr>
-    <tr>
-      <td class="tc"></td>
-      <td class="c-wks">Workshops</td>
-      <td class="c-ses">Session 1</td>
-      <td class="c-ses">Session 4</td>
-      <td class="c-ses">Session 7</td>
-    </tr>
-    <tr>
-      <td class="tc">Lunch</td>
-      <td class="c-lun">Lunch<span class="sub"> <a href="#film">'Sound Guardians' screening</a></span></td>
-      <td class="c-lun">Lunch<span class="sub">ARDC Workshop TBC</span></td>
-      <td class="c-lun">Lunch<span class="sub"><a href="#wa">Wildlife Acoustics Workshop</a></span></td>
-      <td class="c-lun">Lunch<span class="sub"><a href="#fl">Frontier Labs Workshop</a></span></td>
-    </tr>
-    <tr>
-      <td class="tc">Afternoon</td>
-      <td class="c-wks">Workshops</td>
-      <td class="c-ple">Plenary 2<span class="sub">Keynote / panel</span></td>
-      <td class="c-ple">Plenary 4<span class="sub">Keynote / panel</span></td>
-      <td class="c-ple">Plenary 6<span class="sub">Keynote / panel</span></td>
-    </tr>
-    <tr>
-      <td class="tc"></td>
-      <td class="c-wks"></td>
-      <td class="c-ses">Session 2</td>
-      <td class="c-ses">Session 5<span class="sub">Poster session</span></td>
-      <td class="c-ses">Session 8</td>
-    </tr>
-    <tr>
-      <td class="tc">Mid-afternoon</td>
-      <td class="c-tea">Afternoon tea</td>
-      <td class="c-tea">Afternoon tea</td>
-      <td class="c-tea">Afternoon tea</td>
-      <td class="c-tea">Afternoon tea</td>
-    </tr>
-    <tr>
-      <td class="tc"></td>
-      <td class="c-wks"></td>
-      <td class="c-ses">Session 3</td>
-      <td class="c-ses">Session 6<span class="sub">ISE AGM</span></td>
-      <td class="c-ses">Session 9</td>
-    </tr>
-    <tr>
-      <td class="tc">Evening</td>
-      <td class="c-ngt">Welcome reception*</td>
-      <td>Australasian Chapter of Ecoacoustics AGM <span class="sub">Location TBD</span></td>
-      <td class="c-ngt">Dinner**</td>
-      <td></td>
-    </tr>
+    <tr><th colspan="5" class="day-heading" scope="colgroup">Monday, 17 August 2026</th></tr>
+    <tr><th class="room-heading" scope="col">Time</th><th class="room-heading" scope="col">Mezzanine - Room 5</th><th class="room-heading" scope="col">Mezzanine - Room 6</th><th class="room-heading" scope="col">Mezzanine - Room 7</th><th class="room-heading" scope="col">Mezzanine - Room 8</th></tr>
+    <tr><th class="tc" scope="row">08:00 - 09:00</th><td colspan="4" class="c-reg">Registration desk open</td></tr>
+    <tr><th class="tc" scope="row">08:30 - 09:00</th><td colspan="4" class="c-break">Morning coffee</td></tr>
+    <tr><th class="tc" scope="row">09:00 - 12:00</th><td class="c-wks"><span class="session-title">Workshop 1</span><span class="sub">Building and Running Recognisers with Ecosounds</span></td><td class="c-wks"><span class="session-title">Workshop 2</span><span class="sub">Dandhigu Yimbana: Listening on Country and the Ethics of Ecoacoustics</span></td><td class="c-wks"><span class="session-title">Workshop 3</span><span class="sub">The Hitchhiker's Guide to Acoustic Localisation</span></td><td class="c-wks"><span class="session-title">Workshop 5</span><span class="sub">Using the EcoCommons Platform to Run Species Distribution Models with Acoustic Occurrence Data</span></td></tr>
+    <tr><th rowspan="2" class="tc" scope="rowgroup">12:00 - 13:00</th><td colspan="4" class="c-break">Lunch</td></tr>
+    <tr><td colspan="4" class="c-wks">Film screening: Sound Guardians</td></tr>
+    <tr><th class="tc" scope="row">13:00 - 16:00</th><td class="c-wks"><span class="session-title">Workshop 1</span><span class="sub">Continued</span></td><td class="c-wks"><span class="session-title">Workshop 2</span><span class="sub">Continued</span></td><td class="c-wks"><span class="session-title">Workshop 4</span><span class="sub">Developing Best Practice Guidelines for Ecoacoustics in Australia</span></td><td class="c-wks"><span class="session-title">Workshop 6</span><span class="sub">From Priorities to Practice: Building a Global Bioacoustics "Network of Networks"</span></td></tr>
+    <tr><th class="tc" scope="row">16:00 - 16:30</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
+    <tr><th class="tc" scope="row">16:00 - 17:00</th><td colspan="4" class="c-reg">Registration desk open</td></tr>
+    <tr><th class="tc" scope="row">18:00 - 20:00</th><td colspan="4" class="c-ngt">Welcome function</td></tr>
+    <tr><th colspan="5" class="day-heading" scope="colgroup">Tuesday, 18 August</th></tr>
+    <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 7 &amp; 8</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 6</th></tr>
+    <tr><th class="tc" scope="row">08:00 - 09:00</th><td colspan="4" class="c-reg">Registration</td></tr>
+    <tr><th class="tc" scope="row">09:00 - 09:30</th><td colspan="4" class="c-reg">Introduction and Welcome to Country</td></tr>
+    <tr><th class="tc" scope="row">09:30 - 10:30</th><td colspan="4" class="c-ple"><span class="session-title">Plenary 1</span><span class="sub">Xavier Raick</span></td></tr>
+    <tr><th class="tc" scope="row">10:30 - 11:00</th><td colspan="4" class="c-break">Morning coffee</td></tr>
+    <tr><th class="tc" scope="row">11:00 - 13:00</th><td colspan="2" class="c-track">Ecology: General</td><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Listening as Ecological Practice: Ecoacoustics, Artistic Research, and Community Engagement</span></td></tr>
+    <tr><th class="tc" scope="row">13:05 - 14:00</th><td colspan="4" class="c-break">Lunch</td></tr>
+    <tr><th class="tc" scope="row">13:05 - 14:00</th><td colspan="2" class="c-wks">Lunchtime workshop: ARDC</td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">14:00 - 15:00</th><td colspan="2" class="c-track">Methods: Hardware and Infrastructure</td><td colspan="2" class="c-track">Conservation 1</td></tr>
+    <tr><th class="tc" scope="row">15:00 - 15:30</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
+    <tr><th class="tc" scope="row">15:30 - 17:30</th><td colspan="2" class="c-empty" aria-label="No scheduled session"></td><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Arrays &amp; Networks</span></td></tr>
+    <tr><th class="tc" scope="row">17:15 - 18:15</th><td colspan="4" class="c-ngt">Annual General Meeting (ACE)</td></tr>
+    <tr><th class="tc" scope="row">18:00 - 20:00</th><td colspan="4" class="c-ngt">Poster session</td></tr>
+    <tr><th colspan="5" class="day-heading" scope="colgroup">Wednesday, 19 August</th></tr>
+    <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 7 &amp; 8</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 6</th></tr>
+    <tr><th class="tc" scope="row">08:30 - 09:00</th><td colspan="4" class="c-reg">Registration</td></tr>
+    <tr><th class="tc" scope="row">09:00 - 09:15</th><td colspan="4" class="c-reg">Introduction and Housekeeping</td></tr>
+    <tr><th class="tc" scope="row">09:15 - 10:15</th><td colspan="4" class="c-ple"><span class="session-title">Plenary 2</span><span class="sub">Dominique Potvin</span></td></tr>
+    <tr><th class="tc" scope="row">10:15 - 10:45</th><td colspan="4" class="c-break">Morning coffee</td></tr>
+    <tr><th class="tc" scope="row">10:45 - 12:45</th><td colspan="2" class="c-track">Soundscapes 1</td><td colspan="2" class="c-track">Ecology: Predictive</td></tr>
+    <tr><th class="tc" scope="row">12:45 - 13:45</th><td colspan="4" class="c-break">Lunch</td></tr>
+    <tr><th class="tc" scope="row">12:45 - 13:45</th><td colspan="2" class="c-wks">Lunchtime workshop: Wildlife Acoustics</td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">13:45 - 14:45</th><td colspan="4" class="c-panel">Panel: Indigenous land management</td></tr>
+    <tr><th class="tc" scope="row">14:45 - 15:45</th><td colspan="2" class="c-track">Methods: Detection 1</td><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Multidisciplinary approach to behavioural and ecoacoustics challenges of avian vocal mimicry</span></td></tr>
+    <tr><th class="tc" scope="row">15:45 - 16:15</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
+    <tr><th class="tc" scope="row">16:15 - 17:15</th><td colspan="4" class="c-ple"><span class="session-title">Plenary</span><span class="sub">Zuzana Burivalova</span></td></tr>
+    <tr><th class="tc" scope="row">17:30 - 18:30</th><td colspan="4" class="c-ngt">Annual General Meeting (ISE)</td></tr>
+    <tr><th class="tc" scope="row">19:00 - 22:00</th><td colspan="4" class="c-ngt">Optional dinner: Ochre Restaurant (TBC)</td></tr>
+    <tr><th colspan="5" class="day-heading" scope="colgroup">Thursday, 20 August</th></tr>
+    <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 7 &amp; 8</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 6</th></tr>
+    <tr><th class="tc" scope="row">08:30 - 09:00</th><td colspan="4" class="c-reg">Registration</td></tr>
+    <tr><th class="tc" scope="row">09:00 - 09:15</th><td colspan="4" class="c-reg">Introduction and Housekeeping</td></tr>
+    <tr><th class="tc" scope="row">09:15 - 10:15</th><td colspan="4" class="c-ple"><span class="session-title">Plenary</span><span class="sub">Wendy Erb</span></td></tr>
+    <tr><th class="tc" scope="row">10:15 - 10:45</th><td colspan="4" class="c-break">Morning coffee</td></tr>
+    <tr><th class="tc" scope="row">10:45 - 11:45</th><td colspan="2" rowspan="2" class="c-track">Bioacoustics 1</td><td colspan="2" class="c-track">Methods: Detection 2</td></tr>
+    <tr><th class="tc" scope="row">11:45 - 12:45</th><td colspan="2" class="c-track">Conservation 2</td></tr>
+    <tr><th class="tc" scope="row">12:45 - 13:45</th><td colspan="4" class="c-break">Lunch</td></tr>
+    <tr><th class="tc" scope="row">12:45 - 13:45</th><td colspan="2" class="c-wks">Lunchtime workshop: Frontier Labs</td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">13:45 - 14:45</th><td colspan="4" class="c-panel">Panel session 2: monitoring</td></tr>
+    <tr><th class="tc" scope="row">14:45 - 15:45</th><td colspan="2" class="c-track">Ecology: Tracking</td><td colspan="2" class="c-track">Soundscapes 2</td></tr>
+    <tr><th class="tc" scope="row">15:45 - 16:15</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
+    <tr><th class="tc" scope="row">16:15 - 16:45</th><td colspan="2" class="c-track">Bioacoustics 2</td><td colspan="2" class="c-track">Conservation 3</td></tr>
   </tbody>
 </table>
 </div>
@@ -300,26 +272,23 @@ example data will be provided to work along with the workshop explanations.
 
 {{< details title="**Proposal**" >}}
 
-Ecoacoustic studies are often used to support developments
-impacting our native wildlife and spaces. There is concern that lack of
-standardisation in practice may be resulting in insufficient surveys,
-inconsistent data collection and misinterpretation of results.
+Ecoacoustic studies are often used to support developments impacting our native wildlife and spaces. There is concern
+that lack of standardisation in practice may be resulting in insufficient surveys, inconsistent data collection and
+misinterpretation of results.
 
-To increase awareness and understanding of the technique, we are developing a
-guideline to provide foundational knowledge and set minimum standards for best
-practice across the discipline. This will facilitate the appropriate use of the
-technique in a wider range of applications and promote consistency and
-standardisation, enabling effective data sharing and supporting robust
-scientific investigation. The guideline will include practice in audible and
-ultrasonic applications and is intended for use by anyone involved with acoustic
-monitoring in Australia.
+To increase awareness and understanding of the technique, we are developing a guideline to provide foundational
+knowledge and set minimum standards for best practice across the discipline. This will facilitate the appropriate use of
+the technique in a wider range of applications and promote consistency and standardisation, enabling effective data
+sharing and supporting robust scientific investigation. The guideline will include practice in audible and ultrasonic
+applications and is intended for use by anyone involved with ecoacoustic monitoring in Australia.
 
-The project is working to ensure these guidelines reflect best practices and
-encourage adoption within the community and industry.
+The project is working to ensure these guidelines reflect best practices and encourage adoption within the community and
+industry.
 
-During this workshop, we will introduce the project, then hold an interactive
-session that promotes discussion and gathers feedback that will contribute
-towards the guideline development."
+During this workshop, we will introduce the project, then hold an interactive session that promotes discussion and
+gathers feedback that will contribute towards the guideline development. Please note, if you have previously attended
+one of our workshops, this workshop is different and we invite your input again! We will dive into specifics within the
+guideline content requiring discussion and input from the ecoacoustics community.
 
 {{< /details >}}
 
