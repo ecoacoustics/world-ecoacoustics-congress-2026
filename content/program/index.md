@@ -27,45 +27,45 @@ This table provides an overview of the program. Please refer to the PDF version 
     <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 7 &amp; 8</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 6</th></tr>
     <tr><th class="tc" scope="row">08:00 - 09:00</th><td colspan="4" class="c-reg">Registration</td></tr>
     <tr><th class="tc" scope="row">09:00 - 09:30</th><td colspan="4" class="c-reg">Introduction and Welcome to Country</td></tr>
-    <tr><th class="tc" scope="row">09:30 - 10:30</th><td colspan="4" class="c-ple"><span class="session-title">Plenary 1</span><span class="sub">Xavier Raick</span></td></tr>
+    <tr><th class="tc" scope="row">09:30 - 10:30</th><td colspan="2" class="c-ple"><span class="session-title">Plenary 1</span><span class="sub">Xavier Raick</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">10:30 - 11:00</th><td colspan="4" class="c-break">Morning coffee</td></tr>
     <tr><th class="tc" scope="row">11:00 - 13:00</th><td colspan="2" class="c-track">Ecology: General</td><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Listening as Ecological Practice: Ecoacoustics, Artistic Research, and Community Engagement</span></td></tr>
     <tr><th class="tc" scope="row">13:05 - 14:00</th><td colspan="4" class="c-break">Lunch</td></tr>
     <tr><th class="tc" scope="row">13:05 - 14:00</th><td colspan="2" class="c-wks">Lunchtime workshop: ARDC</td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">14:00 - 15:00</th><td colspan="2" class="c-track">Methods: Hardware and Infrastructure</td><td colspan="2" class="c-track">Conservation 1</td></tr>
     <tr><th class="tc" scope="row">15:00 - 15:30</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
-    <tr><th class="tc" scope="row">15:30 - 17:30</th><td colspan="2" class="c-empty" aria-label="No scheduled session"></td><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Arrays &amp; Networks</span></td></tr>
-    <tr><th class="tc" scope="row">17:15 - 18:15</th><td colspan="4" class="c-ngt">Annual General Meeting (ACE)</td></tr>
-    <tr><th class="tc" scope="row">18:00 - 20:00</th><td colspan="4" class="c-ngt">Poster session</td></tr>
+    <tr><th class="tc" scope="row">15:30 - 17:30</th><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Arrays &amp; Networks</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">17:15 - 18:15</th><td colspan="2" class="c-ngt">Annual General Meeting (ACE)</td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">18:00 - 20:00</th><td colspan="2" class="c-empty" aria-label="No scheduled session"></td><td colspan="2" class="c-ngt">Poster session</td></tr>
     <tr><th colspan="5" class="day-heading" scope="colgroup">Wednesday, 19 August</th></tr>
     <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 7 &amp; 8</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 6</th></tr>
     <tr><th class="tc" scope="row">08:30 - 09:00</th><td colspan="4" class="c-reg">Registration</td></tr>
     <tr><th class="tc" scope="row">09:00 - 09:15</th><td colspan="4" class="c-reg">Introduction and Housekeeping</td></tr>
-    <tr><th class="tc" scope="row">09:15 - 10:15</th><td colspan="4" class="c-ple"><span class="session-title">Plenary 2</span><span class="sub">Dominique Potvin</span></td></tr>
+    <tr><th class="tc" scope="row">09:15 - 10:15</th><td colspan="2" class="c-ple"><span class="session-title">Plenary 2</span><span class="sub">Dominique Potvin</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">10:15 - 10:45</th><td colspan="4" class="c-break">Morning coffee</td></tr>
     <tr><th class="tc" scope="row">10:45 - 12:45</th><td colspan="2" class="c-track">Soundscapes 1</td><td colspan="2" class="c-track">Ecology: Predictive</td></tr>
     <tr><th class="tc" scope="row">12:45 - 13:45</th><td colspan="4" class="c-break">Lunch</td></tr>
     <tr><th class="tc" scope="row">12:45 - 13:45</th><td colspan="2" class="c-wks">Lunchtime workshop: Wildlife Acoustics</td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
-    <tr><th class="tc" scope="row">13:45 - 14:45</th><td colspan="4" class="c-panel">Panel: Indigenous land management</td></tr>
+    <tr><th class="tc" scope="row">13:45 - 14:45</th><td colspan="2" class="c-panel">Panel: Ecoacoustics for monitoring</td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">14:45 - 15:45</th><td colspan="2" class="c-track">Methods: Detection 1</td><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Multidisciplinary approach to behavioural and ecoacoustics challenges of avian vocal mimicry</span></td></tr>
     <tr><th class="tc" scope="row">15:45 - 16:15</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
-    <tr><th class="tc" scope="row">16:15 - 17:15</th><td colspan="4" class="c-ple"><span class="session-title">Plenary</span><span class="sub">Zuzana Burivalova</span></td></tr>
+    <tr><th class="tc" scope="row">16:15 - 17:15</th><td colspan="2" class="c-ple"><span class="session-title">Plenary 3</span><span class="sub">Zuzana Burivalova</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">17:30 - 18:30</th><td colspan="4" class="c-ngt">Annual General Meeting (ISE)</td></tr>
     <tr><th class="tc" scope="row">19:00 - 22:00</th><td colspan="4" class="c-ngt">Optional dinner: Ochre Restaurant (TBC)</td></tr>
     <tr><th colspan="5" class="day-heading" scope="colgroup">Thursday, 20 August</th></tr>
     <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 7 &amp; 8</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 6</th></tr>
     <tr><th class="tc" scope="row">08:30 - 09:00</th><td colspan="4" class="c-reg">Registration</td></tr>
     <tr><th class="tc" scope="row">09:00 - 09:15</th><td colspan="4" class="c-reg">Introduction and Housekeeping</td></tr>
-    <tr><th class="tc" scope="row">09:15 - 10:15</th><td colspan="4" class="c-ple"><span class="session-title">Plenary</span><span class="sub">Wendy Erb</span></td></tr>
+    <tr><th class="tc" scope="row">09:15 - 10:15</th><td colspan="2" class="c-ple"><span class="session-title">Plenary 4</span><span class="sub">Wendy Erb</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">10:15 - 10:45</th><td colspan="4" class="c-break">Morning coffee</td></tr>
     <tr><th class="tc" scope="row">10:45 - 11:45</th><td colspan="2" rowspan="2" class="c-track">Bioacoustics 1</td><td colspan="2" class="c-track">Methods: Detection 2</td></tr>
     <tr><th class="tc" scope="row">11:45 - 12:45</th><td colspan="2" class="c-track">Conservation 2</td></tr>
     <tr><th class="tc" scope="row">12:45 - 13:45</th><td colspan="4" class="c-break">Lunch</td></tr>
     <tr><th class="tc" scope="row">12:45 - 13:45</th><td colspan="2" class="c-wks">Lunchtime workshop: Frontier Labs</td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
-    <tr><th class="tc" scope="row">13:45 - 14:45</th><td colspan="4" class="c-panel">Panel session 2: monitoring</td></tr>
-    <tr><th class="tc" scope="row">14:45 - 15:45</th><td colspan="2" class="c-track">Ecology: Tracking</td><td colspan="2" class="c-track">Soundscapes 2</td></tr>
-    <tr><th class="tc" scope="row">15:45 - 16:15</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
-    <tr><th class="tc" scope="row">16:15 - 16:45</th><td colspan="2" class="c-track">Bioacoustics 2</td><td colspan="2" class="c-track">Conservation 3</td></tr>
+    <tr><th class="tc" scope="row">13:45 - 14:45</th><td colspan="2" class="c-track">Ecology: Tracking</td><td colspan="2" class="c-track">Soundscapes 2</td></tr>
+    <tr><th class="tc" scope="row">14:45 - 15:45</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
+    <tr><th class="tc" scope="row">15:45 - 16:15</th><td colspan="2" class="c-track">Bioacoustics 2</td><td colspan="2" class="c-track">Conservation 3</td></tr>
+    <tr><th class="tc" scope="row">16:15 - 16:45</th><td colspan="4" class="c-break">Closing ceremony</td></tr>
   </tbody>
 </table>
 </div>

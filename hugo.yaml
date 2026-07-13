@@ -54,6 +54,10 @@ menu:
       pageRef: /registration/student-sponsorship
       parent: registration
       weight: 2
+    - name: T-shirt Pre-order
+      pageRef: /registration/t-shirt-pre-order
+      parent: registration
+      weight: 3
 # /submissions/** ------------------------------
     - name: Call for Symposia
       pageRef: /submissions/call-for-symposia
