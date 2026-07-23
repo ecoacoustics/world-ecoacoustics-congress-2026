@@ -21,6 +21,8 @@ Joseph Jantke - University of Adelaide
 
 To get in touch with the local organising committee, please contact us at [ecoacoustics2026@gmail.com](mailto:ecoacoustics2026@gmail.com).
 
+If you need assistance during your stay in Cairns, please call Lin (+61 0417201256) or Nina (+61 0481974480).
+
 ## ISE
 
 This congress is organised by the International Society of Ecoacoustics. You can
