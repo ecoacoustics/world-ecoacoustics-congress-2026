@@ -410,9 +410,9 @@ table.s a {
     text-decoration: underline;
 }
 
-/* ::after pseudo-element appends a ↗ arrow icon to every link to signal it opens elsewhere */
+/* ::after pseudo-element appends an icon to every link to signal it opens elsewhere */
 table.s a::after {
-    content: " ↗";
+    content: " 🔗";
     font-size: 12px;
 }
 

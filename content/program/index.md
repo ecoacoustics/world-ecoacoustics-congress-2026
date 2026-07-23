@@ -19,14 +19,14 @@ This table provides an overview of the program. Please refer to the PDF version 
     <tr><th class="tc" scope="row">08:30 - 09:00</th><td colspan="4" class="c-break">Morning coffee</td></tr>
     <tr>
         <th class="tc" scope="row">09:00 - 12:00</th>
-        <td class="c-wks"><span class="session-title">Workshop 1</span><span class="sub">Building and Running Recognisers with Ecosounds</span></td>
-        <td class="c-wks"><span class="session-title">Workshop 2</span><span class="sub">Dandhigu Yimbana: Listening on Country and the Ethics of Ecoacoustics</span></td>
-        <td class="c-wks"><span class="session-title">Workshop 3</span><span class="sub">The Hitchhiker's Guide to Acoustic Localisation</span></td>
-        <td class="c-wks"><span class="session-title">Workshop 5</span><span class="sub">Using the EcoCommons Platform to Run Species Distribution Models with Acoustic Occurrence Data</span></td>
+        <td class="c-wks"><a href="#ecosounds" class="session-title">Workshop 1</a><span class="sub">Building and Running Recognisers with Ecosounds</span></td>
+        <td class="c-wks"><a href="#dandhigu-yimbana" class="session-title">Workshop 2</a><span class="sub">Dandhigu Yimbana: Listening on Country and the Ethics of Ecoacoustics</span></td>
+        <td class="c-wks"><a href="#acoustic-localisation" class="session-title">Workshop 3</a><span class="sub">The Hitchhiker's Guide to Acoustic Localisation</span></td>
+        <td class="c-wks"><a href="#ecocommons" class="session-title">Workshop 5</a><span class="sub">Using the EcoCommons Platform to Run Species Distribution Models with Acoustic Occurrence Data</span></td>
     </tr>
     <tr><th rowspan="2" class="tc" scope="rowgroup">12:00 - 13:00</th><td colspan="4" class="c-break">Lunch</td></tr>
-    <tr><td colspan="4" class="c-wks">Film screening: Sound Guardians</td></tr>
-    <tr><th class="tc" scope="row">13:00 - 16:00</th><td class="c-wks"><span class="session-title">Workshop 1</span><span class="sub">Continued</span></td><td class="c-wks"><span class="session-title">Workshop 2</span><span class="sub">Continued</span></td><td class="c-wks"><span class="session-title">Workshop 4</span><span class="sub">Developing Best Practice Guidelines for Ecoacoustics in Australia</span></td><td class="c-wks"><span class="session-title">Workshop 6</span><span class="sub">From Priorities to Practice: Building a Global Bioacoustics "Network of Networks"</span></td></tr>
+    <tr><td colspan="4" class="c-wks"><a href="#film" class="session-title">Film screening: Sound Guardians</a></td></tr>
+    <tr><th class="tc" scope="row">13:00 - 16:00</th><td class="c-wks"><span class="session-title">Workshop 1</span><span class="sub">Continued</span></td><td class="c-wks"><span class="session-title">Workshop 2</span><span class="sub">Continued</span></td><td class="c-wks"><a href="#best-practice-guidelines" class="session-title">Workshop 4</a><span class="sub">Developing Best Practice Guidelines for Ecoacoustics in Australia</span></td><td class="c-wks"><a href="#network-of-networks" class="session-title">Workshop 6</a><span class="sub">From Priorities to Practice: Building a Global Bioacoustics "Network of Networks"</span></td></tr>
     <tr><th class="tc" scope="row">16:00 - 16:30</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
     <tr><th class="tc" scope="row">16:00 - 17:00</th><td colspan="4" class="c-reg">Registration desk open</td></tr>
     <tr><th class="tc" scope="row">18:00 - 20:00</th><td colspan="4" class="c-ngt">Welcome function</td></tr>
@@ -35,11 +35,11 @@ This table provides an overview of the program. Please refer to the PDF version 
     <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 7 &amp; 8</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 6</th></tr>
     <tr><th class="tc" scope="row">08:00 - 09:00</th><td colspan="4" class="c-reg">Registration</td></tr>
     <tr><th class="tc" scope="row">09:00 - 09:30</th><td colspan="4" class="c-reg">Introduction and Welcome to Country</td></tr>
-    <tr><th class="tc" scope="row">09:30 - 10:30</th><td colspan="2" class="c-ple"><span class="session-title">Plenary 1</span><span class="sub">Xavier Raick</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">09:30 - 10:30</th><td colspan="2" class="c-ple"><a href="#xavier" class="session-title">Plenary 1</a><span class="sub">Xavier Raick</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">10:30 - 11:00</th><td colspan="4" class="c-break">Morning coffee</td></tr>
     <tr><th class="tc" scope="row">11:00 - 13:00</th><td colspan="2" class="c-track">Ecology: General</td><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Listening as Ecological Practice: Ecoacoustics, Artistic Research, and Community Engagement</span></td></tr>
     <tr><th class="tc" scope="row">13:05 - 14:00</th><td colspan="4" class="c-break">Lunch</td></tr>
-    <tr><th class="tc" scope="row">13:20 - 14:00</th><td colspan="2" class="c-wks">Lunchtime workshop: ARDC</td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">13:20 - 14:00</th><td colspan="2" class="c-wks"><a href="#oe" class="session-title">Lunchtime workshop: Open Ecoacoustics</a><span class="sub">Scaling acoustic data, verification and analysis, and shaping the platform’s next phase</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">14:00 - 15:00</th><td colspan="2" class="c-track">Methods: Hardware and Infrastructure</td><td colspan="2" class="c-track">Conservation 1</td></tr>
     <tr><th class="tc" scope="row">15:00 - 15:30</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
     <tr><th class="tc" scope="row">15:30 - 17:30</th><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Arrays &amp; Networks</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
@@ -50,15 +50,15 @@ This table provides an overview of the program. Please refer to the PDF version 
     <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 7 &amp; 8</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 6</th></tr>
     <tr><th class="tc" scope="row">08:30 - 09:00</th><td colspan="4" class="c-reg">Registration</td></tr>
     <tr><th class="tc" scope="row">09:00 - 09:15</th><td colspan="4" class="c-reg">Introduction and Housekeeping</td></tr>
-    <tr><th class="tc" scope="row">09:15 - 10:15</th><td colspan="2" class="c-ple"><span class="session-title">Plenary 2</span><span class="sub">Dominique Potvin</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">09:15 - 10:15</th><td colspan="2" class="c-ple"><a href="#dominique" class="session-title">Plenary 2</a><span class="sub">Dominique Potvin</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">10:15 - 10:45</th><td colspan="4" class="c-break">Morning coffee</td></tr>
     <tr><th class="tc" scope="row">10:45 - 12:45</th><td colspan="2" class="c-track">Soundscapes 1</td><td colspan="2" class="c-track">Ecology: Predictive</td></tr>
     <tr><th class="tc" scope="row">12:45 - 13:45</th><td colspan="4" class="c-break">Lunch</td></tr>
-    <tr><th class="tc" scope="row">13:05 - 13:45</th><td colspan="2" class="c-wks">Lunchtime workshop: Wildlife Acoustics</td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">13:05 - 13:45</th><td colspan="2" class="c-wks"><a href="#wa" class="session-title">Lunchtime workshop: Wildlife Acoustics</a><span class="sub">From Micro 2 to SM5Bat: Simplifying Passive Recorder Workflow with the Song Meter Configurator App</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">13:45 - 14:45</th><td colspan="2" class="c-panel">Panel: Ecoacoustics for monitoring</td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">14:45 - 15:45</th><td colspan="2" class="c-track">Methods: Detection 1</td><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Multidisciplinary approach to behavioural and ecoacoustics challenges of avian vocal mimicry</span></td></tr>
     <tr><th class="tc" scope="row">15:45 - 16:15</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
-    <tr><th class="tc" scope="row">16:15 - 17:15</th><td colspan="2" class="c-ple"><span class="session-title">Plenary 3</span><span class="sub">Zuzana Burivalova</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">16:15 - 17:15</th><td colspan="2" class="c-ple"><a href="#zuzana" class="session-title">Plenary 3</a><span class="sub">Zuzana Burivalova</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">17:30 - 18:30</th><td colspan="4" class="c-ngt">Annual General Meeting (ISE)</td></tr>
     <tr><th class="tc" scope="row">19:00 - 22:00</th><td colspan="4" class="c-ngt">Optional dinner: Ochre Restaurant (TBC)</td></tr>
     <!-- THURSDAY -->
@@ -66,12 +66,12 @@ This table provides an overview of the program. Please refer to the PDF version 
     <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 7 &amp; 8</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 6</th></tr>
     <tr><th class="tc" scope="row">08:30 - 09:00</th><td colspan="4" class="c-reg">Registration</td></tr>
     <tr><th class="tc" scope="row">09:00 - 09:15</th><td colspan="4" class="c-reg">Introduction and Housekeeping</td></tr>
-    <tr><th class="tc" scope="row">09:15 - 10:15</th><td colspan="2" class="c-ple"><span class="session-title">Plenary 4</span><span class="sub">Wendy Erb</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">09:15 - 10:15</th><td colspan="2" class="c-ple"><a href="#wendy" class="session-title">Plenary 4</a><span class="sub">Wendy Erb</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">10:15 - 10:45</th><td colspan="4" class="c-break">Morning coffee</td></tr>
     <tr><th class="tc" scope="row">10:45 - 11:45</th><td colspan="2" rowspan="2" class="c-track">Bioacoustics 1</td><td colspan="2" class="c-track">Methods: Detection 2</td></tr>
     <tr><th class="tc" scope="row">11:45 - 12:45</th><td colspan="2" class="c-track">Conservation 2</td></tr>
     <tr><th class="tc" scope="row">12:45 - 13:45</th><td colspan="4" class="c-break">Lunch</td></tr>
-    <tr><th class="tc" scope="row">13:05 - 13:45</th><td colspan="2" class="c-wks">Lunchtime workshop: Frontier Labs</td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">13:05 - 13:45</th><td colspan="2" class="c-wks"><a href="#fl" class="session-title">Lunchtime workshop: Frontier Labs</a><span class="sub">How to PAM – Theory and Praxis of Deploying an Acoustic Recorder</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">13:45 - 14:45</th><td colspan="2" class="c-track">Ecology: Tracking</td><td colspan="2" class="c-track">Soundscapes 2 & Conservation 3</td></tr>
     <tr><th class="tc" scope="row">14:45 - 15:15</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
     <tr><th class="tc" scope="row">15:15 - 16:00</th><td colspan="4" class="c-break">Closing ceremony</td></tr>
@@ -83,7 +83,7 @@ This table provides an overview of the program. Please refer to the PDF version 
 
 ## Keynote Speakers
 
-### Dr Xavier Raick
+### Dr Xavier Raick {#xavier}
 
 {{< cards cols="3" >}}
 {{< card class="highlight-card"image="xavier_photo_1.jpg" >}}
@@ -126,7 +126,7 @@ individuals across biological scales.
 
 -------------------
 
-### Dr Dominique Potvin
+### Dr Dominique Potvin {#dominique}
 
 {{< cards cols="2" >}}
 {{< card class="highlight-card" image="dominique_photo_1.jpg" >}}
@@ -154,7 +154,7 @@ of ecological filtering and cultural evolution in a rapidly changing world.
 
 -------------------
 
-### Dr. Wendy Erb
+### Dr. Wendy Erb {#wendy}
 
 {{< cards cols="3" >}}
 {{< card class="highlight-card" image="wendy_erb_1.jpeg" >}}
@@ -199,7 +199,7 @@ nature, and place.
 
 -------------------
 
-### Dr Zuzana Burivalova
+### Dr Zuzana Burivalova {#zuzana}
 
 {{< cards cols="3" >}}
 {{< card class="highlight-card" image="zuzana_1.jpg" >}}
@@ -244,7 +244,7 @@ to participate.
 
 See the headings below for more information on the workshops being offered.
 
-### The Hitchhiker’s Guide to Acoustic Localisation
+### The Hitchhiker’s Guide to Acoustic Localisation {#acoustic-localisation}
 
 {{< details title="**Proposal**" >}}
 
@@ -277,7 +277,7 @@ example data will be provided to work along with the workshop explanations.
 
 **Maximum number of participants:** 25
 
-### Developing best practice guidelines for ecoacoustics in Australia
+### Developing best practice guidelines for ecoacoustics in Australia {#best-practice-guidelines}
 
 {{< details title="**Proposal**" >}}
 
@@ -307,7 +307,7 @@ guideline content requiring discussion and input from the ecoacoustics community
 
 **Maximum number of participants:** TBD
 
-### Building and Running Recognisers with Ecosounds
+### Building and Running Recognisers with Ecosounds {#ecosounds}
 
 {{< details title="**Proposal**" >}}
 
@@ -346,7 +346,7 @@ ARDC.
 
 **Maximum number of participants:** 25
 
-### Dandhigu Yimbana: Listening on Country and the Ethics of Ecoacoustics
+### Dandhigu Yimbana: Listening on Country and the Ethics of Ecoacoustics {#dandhigu-yimbana}
 
 {{< details title="**Proposal**" >}}
 
@@ -382,7 +382,7 @@ funding.
 
 **Maximum number of participants:** 25
 
-### From Priorities to Practice: Building a Global Bioacoustics "Network of Networks"
+### From Priorities to Practice: Building a Global Bioacoustics "Network of Networks" {#network-of-networks}
 
 {{< details title="**Proposal**" >}}
 
@@ -419,7 +419,7 @@ ensure sustained momentum.
 
 **Maximum number of participants:** 45
 
-### Using the EcoCommons Platform to Run Species Distribution Models with Acoustic Occurrence Data
+### Using the EcoCommons Platform to Run Species Distribution Models with Acoustic Occurrence Data {#ecocommons}
 
 {{< details title="**Proposal**" >}}
 
@@ -508,6 +508,36 @@ EcoCommons Account prior to the workshop.
     </div>
   </div>
 </div>
+
+### Open Ecoacoustics: scaling acoustic data, verification and analysis, and shaping the platform’s next phase {#oe}
+
+Open Ecoacoustics is a national open infrastructure for ecoacoustics. It underpins two of Australia’s largest acoustic
+collections, the Australian Acoustic Observatory (A2O) repository and the Ecosounds database, which together hold more
+than a petabyte of audio. The platform provides an integrated set of tools to manage, share and analyse ecoacoustic data
+at scale. These tools include cloud-based BirdNET and Perch analyses, support for custom recognisers, and the data
+powering the Call Detective interface, which lets projects scale the verification of AI detections across expert and
+citizen-science communities.
+
+This workshop will include a brief overview of the project and a practical tour of what the tools offer, including how
+Call Detective can accelerate verification for large monitoring programs.   We will set out the project’s operating
+model, how Open Ecoacoustics prioritises free access for Australian researchers who are developing nationally
+significant reusable ecoacoustic data assets, while actively seeking partnerships and co-investment.
+
+The heart of the session is a conversation with you. As the team plans the next phase of the project, beginning in 2027,
+we want to hear what data you are collecting, functionality you would most value, what your ecoacoustic workflows
+require, and where your current pain points lie. Your input will help shape the platform’s roadmap.
+
+We warmly encourage anyone interested in storing, processing or verifying acoustic data to come along, share their
+needs, and sign up to begin onboarding with the platform’s data storage and processing tools.
+
+**Who should attend**: Researchers, government and conservation practitioners, and citizen-science coordinators working
+with, or planning to work with, passive acoustic monitoring data.
+
+**Format**: Interactive workshop and community consultation
+
+**Presenters**: Paul Roe, Anthony Truskinger and Lola Lange (Open Ecoacoustics); Rob Clemens (Australian Research Data Commons)
+
+**Organisation**: Open Ecoacoustics and Australian Research Data Commons
 
 ### From Micro 2 to SM5Bat: Simplifying Passive Recorder Workflow with the Song Meter Configurator App {#wa}
 
