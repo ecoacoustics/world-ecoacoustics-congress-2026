@@ -7,7 +7,7 @@ Click below to register for the World Ecoacoustics Congress 2026!
 
 <sl-button href="https://www.eventbrite.com.au/e/world-ecoacoustics-congress-tickets-1984242648175" size="large" variant="primary" style="width: 100%;">Register Now</sl-button>
 
-Registration will close on the 30th of July.
+Registration will close on the 3rd of August.
 
 ## Registration fees
 

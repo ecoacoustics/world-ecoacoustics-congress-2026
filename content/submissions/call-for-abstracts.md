@@ -3,10 +3,6 @@ title = 'Call for Abstracts'
 date = 2025-11-13T15:08:32+11:00
 +++
 
-We are now only accepting poster abstracts for the congress. Submissions will close on the 23rd of July.
-
-<sl-button href="https://docs.google.com/forms/d/e/1FAIpQLSc99f61zrdxxuInvA6TAZU8SvwOeLdB97F4QeeKeschHV0lhQ/viewform?usp=dialog" variant="primary" outline size="large">Poster abstract submissions</sl-button>
-
 The 6th World Ecoacoustics Congress (WEC) will include scientific presentations
 aimed to introduce and discuss new research, and advances in ecoacoustics.
 
