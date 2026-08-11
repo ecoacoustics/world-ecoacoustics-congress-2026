@@ -12,17 +12,13 @@ Congress (WEC), taking place in Cairns (Gimuy), Australia, **17th - 20th of
 August** 2026. The WEC happens every 2 years and attracts hundreds of delegates
 to discuss advances and innovations in Ecoacoustics.
 
-{{< callout icon="sparkles">}}
-**Registration will close on the 3rd of August.** <a href="https://www.eventbrite.com.au/e/world-ecoacoustics-congress-tickets-1984242648175">**Click here to register**</a>.
-
+{{< callout type="info">}}
+Registrations are now closed.  
 {{< /callout >}}
 
 {{< callout type="info">}}
-We have now reached out to all symposia and workshop leads with the outcome of
-your submission, and notified all authors that submitted abstracts before the
-28/04 deadline. We have also contacted registered delegates with information
-about workshops and other matters. If you haven't seen anything in your inbox,
-please check your junk/spam folders or reach out to us on
+Registered delegates that wish to attend workshops have to **register to the workshops.**  
+We have sent workshop registration instructions via email; if you are unable to find it, please contact us ASAP:
 <ecoacoustics2026@gmail.com>.
 {{< /callout >}}
 

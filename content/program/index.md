@@ -29,7 +29,7 @@ This table provides an overview of the program. Please refer to the PDF version 
     <tr><th class="tc" scope="row">13:00 - 16:00</th><td class="c-wks"><span class="session-title">Workshop 1</span><span class="sub">Continued</span></td><td class="c-wks"><span class="session-title">Workshop 2</span><span class="sub">Continued</span></td><td class="c-wks"><a href="#best-practice-guidelines" class="session-title">Workshop 4</a><span class="sub">Developing Best Practice Guidelines for Ecoacoustics in Australia</span></td><td class="c-wks"><a href="#network-of-networks" class="session-title">Workshop 6</a><span class="sub">From Priorities to Practice: Building a Global Bioacoustics "Network of Networks"</span></td></tr>
     <tr><th class="tc" scope="row">16:00 - 16:30</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
     <tr><th class="tc" scope="row">16:00 - 17:00</th><td colspan="4" class="c-reg">Registration desk open</td></tr>
-    <tr><th class="tc" scope="row">18:00 - 20:00</th><td colspan="4" class="c-ngt">Welcome function</td></tr>
+    <tr><th class="tc" scope="row">18:00 - 20:00</th><td colspan="4" class="c-ngt">Welcome function with music by <a href="https://rikewolf.com/synergy-rike-wolf-will-mrbo/">Rike Wolf</a> (all delegates welcome)</td></tr>
     <!-- TUESDAY -->
     <tr><th colspan="5" class="day-heading" scope="colgroup">Tuesday, 18 August</th></tr>
     <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 7 &amp; 8</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 6</th></tr>
@@ -37,12 +37,12 @@ This table provides an overview of the program. Please refer to the PDF version 
     <tr><th class="tc" scope="row">09:00 - 09:30</th><td colspan="4" class="c-reg">Introduction and Welcome to Country</td></tr>
     <tr><th class="tc" scope="row">09:30 - 10:30</th><td colspan="2" class="c-ple"><a href="#xavier" class="session-title">Plenary 1</a><span class="sub">Xavier Raick</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">10:30 - 11:00</th><td colspan="4" class="c-break">Morning coffee</td></tr>
-    <tr><th class="tc" scope="row">11:00 - 13:00</th><td colspan="2" class="c-track">Ecology: General</td><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Listening as Ecological Practice: Ecoacoustics, Artistic Research, and Community Engagement</span></td></tr>
-    <tr><th class="tc" scope="row">13:05 - 14:00</th><td colspan="4" class="c-break">Lunch</td></tr>
-    <tr><th class="tc" scope="row">13:20 - 14:00</th><td colspan="2" class="c-wks"><a href="#oe" class="session-title">Lunchtime workshop: Open Ecoacoustics</a><span class="sub">Scaling acoustic data, verification and analysis, and shaping the platform’s next phase</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
-    <tr><th class="tc" scope="row">14:00 - 15:00</th><td colspan="2" class="c-track">Methods: Hardware and Infrastructure</td><td colspan="2" class="c-track">Conservation 1</td></tr>
-    <tr><th class="tc" scope="row">15:00 - 15:30</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
-    <tr><th class="tc" scope="row">15:30 - 17:30</th><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Arrays &amp; Networks</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">11:00 - 13:05</th><td colspan="2" class="c-track">Ecology: General</td><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Listening as Ecological Practice: Ecoacoustics, Artistic Research, and Community Engagement</span></td></tr>
+    <tr><th class="tc" scope="row">13:05 - 14:25</th><td colspan="4" class="c-break">Lunch</td></tr>
+    <tr><th class="tc" scope="row">13:45 - 14:25</th><td colspan="2" class="c-wks"><a href="#oe" class="session-title">Lunchtime workshop: Open Ecoacoustics</a><span class="sub">Scaling acoustic data, verification and analysis, and shaping the platform’s next phase</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">14:30 - 15:30</th><td colspan="2" class="c-track">Methods: Hardware and Infrastructure</td><td colspan="2" class="c-track">Conservation 1</td></tr>
+    <tr><th class="tc" scope="row">15:30 - 16:00</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
+    <tr><th class="tc" scope="row">16:00 - 17:15</th><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Arrays &amp; Networks</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">17:15 - 18:15</th><td colspan="2" class="c-ngt">Annual General Meeting (ACE)</td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">18:00 - 20:00</th><td colspan="2" class="c-empty" aria-label="No scheduled session"></td><td colspan="2" class="c-ngt">Poster session</td></tr>
     <!-- WEDNESDAY -->
@@ -52,14 +52,14 @@ This table provides an overview of the program. Please refer to the PDF version 
     <tr><th class="tc" scope="row">09:00 - 09:15</th><td colspan="4" class="c-reg">Introduction and Housekeeping</td></tr>
     <tr><th class="tc" scope="row">09:15 - 10:15</th><td colspan="2" class="c-ple"><a href="#dominique" class="session-title">Plenary 2</a><span class="sub">Dominique Potvin</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">10:15 - 10:45</th><td colspan="4" class="c-break">Morning coffee</td></tr>
-    <tr><th class="tc" scope="row">10:45 - 12:45</th><td colspan="2" class="c-track">Soundscapes 1</td><td colspan="2" class="c-track">Ecology: Predictive</td></tr>
-    <tr><th class="tc" scope="row">12:45 - 13:45</th><td colspan="4" class="c-break">Lunch</td></tr>
-    <tr><th class="tc" scope="row">13:05 - 13:45</th><td colspan="2" class="c-wks"><a href="#wa" class="session-title">Lunchtime workshop: Wildlife Acoustics</a><span class="sub">From Micro 2 to SM5Bat: Simplifying Passive Recorder Workflow with the Song Meter Configurator App</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
-    <tr><th class="tc" scope="row">13:45 - 14:45</th><td colspan="2" class="c-panel">Panel: Ecoacoustics for monitoring</td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
-    <tr><th class="tc" scope="row">14:45 - 15:45</th><td colspan="2" class="c-track">Methods: Detection 1</td><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Multidisciplinary approach to behavioural and ecoacoustics challenges of avian vocal mimicry</span></td></tr>
-    <tr><th class="tc" scope="row">15:45 - 16:15</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
-    <tr><th class="tc" scope="row">16:15 - 17:15</th><td colspan="2" class="c-ple"><a href="#zuzana" class="session-title">Plenary 3</a><span class="sub">Zuzana Burivalova</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
-    <tr><th class="tc" scope="row">17:30 - 18:30</th><td colspan="4" class="c-ngt">Annual General Meeting (ISE)</td></tr>
+    <tr><th class="tc" scope="row">10:45 - 12:25</th><td colspan="2" class="c-track">Soundscapes 1</td><td colspan="2" class="c-track">Ecology: Predictive</td></tr>
+    <tr><th class="tc" scope="row">12:25 - 13:45</th><td colspan="4" class="c-break">Lunch</td></tr>
+    <tr><th class="tc" scope="row">13:00 - 13:40</th><td colspan="2" class="c-wks"><a href="#wa" class="session-title">Lunchtime workshop: Wildlife Acoustics</a><span class="sub">From Micro 2 to SM5Bat: Simplifying Passive Recorder Workflow with the Song Meter Configurator App</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">13:45 - 14:45</th><td colspan="2" class="c-panel"><a href="#panel-session" class="session-title">Panel</a><span class="sub">Listening for Nature: Priorities, Challenges and the Future of Ecoacoustic Monitoring</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">14:50 - 15:50</th><td colspan="2" class="c-track">Methods: Detection 1</td><td colspan="2" class="c-sym"><span class="session-title">Symposium</span><span class="sub">Multidisciplinary approach to behavioural and ecoacoustics challenges of avian vocal mimicry</span></td></tr>
+    <tr><th class="tc" scope="row">15:40 - 16:20</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
+    <tr><th class="tc" scope="row">16:20 - 17:20</th><td colspan="2" class="c-ple"><a href="#zuzana" class="session-title">Plenary 3</a><span class="sub">Zuzana Burivalova</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">17:25 - 18:25</th><td colspan="4" class="c-ngt">Annual General Meeting (ISE)</td></tr>
     <tr><th class="tc" scope="row">19:00 - 22:00</th><td colspan="4" class="c-ngt">Optional dinner: Ochre Restaurant (TBC)</td></tr>
     <!-- THURSDAY -->
     <tr><th colspan="5" class="day-heading" scope="colgroup">Thursday, 20 August</th></tr>
@@ -68,13 +68,13 @@ This table provides an overview of the program. Please refer to the PDF version 
     <tr><th class="tc" scope="row">09:00 - 09:15</th><td colspan="4" class="c-reg">Introduction and Housekeeping</td></tr>
     <tr><th class="tc" scope="row">09:15 - 10:15</th><td colspan="2" class="c-ple"><a href="#wendy" class="session-title">Plenary 4</a><span class="sub">Wendy Erb</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
     <tr><th class="tc" scope="row">10:15 - 10:45</th><td colspan="4" class="c-break">Morning coffee</td></tr>
-    <tr><th class="tc" scope="row">10:45 - 11:45</th><td colspan="2" rowspan="2" class="c-track">Bioacoustics 1</td><td colspan="2" class="c-track">Methods: Detection 2</td></tr>
-    <tr><th class="tc" scope="row">11:45 - 12:45</th><td colspan="2" class="c-track">Conservation 2</td></tr>
-    <tr><th class="tc" scope="row">12:45 - 13:45</th><td colspan="4" class="c-break">Lunch</td></tr>
-    <tr><th class="tc" scope="row">13:05 - 13:45</th><td colspan="2" class="c-wks"><a href="#fl" class="session-title">Lunchtime workshop: Frontier Labs</a><span class="sub">How to PAM – Theory and Praxis of Deploying an Acoustic Recorder</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
-    <tr><th class="tc" scope="row">13:45 - 14:45</th><td colspan="2" class="c-track">Ecology: Tracking</td><td colspan="2" class="c-track">Soundscapes 2 & Conservation 3</td></tr>
-    <tr><th class="tc" scope="row">14:45 - 15:15</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
-    <tr><th class="tc" scope="row">15:15 - 16:00</th><td colspan="4" class="c-break">Closing ceremony</td></tr>
+    <tr><th class="tc" scope="row">10:45 - 11:45</th><td colspan="2" rowspan="2" class="c-track">Bioacoustics 1</td><td colspan="2" class="c-track">Ecology: Tracking</td></tr>
+    <tr><th class="tc" scope="row">11:45 - 12:45</th><td colspan="2" class="c-track">Soundscapes 2 & Conservation 2</td></tr>
+    <tr><th class="tc" scope="row">12:45 - 13:55</th><td colspan="4" class="c-break">Lunch</td></tr>
+    <tr><th class="tc" scope="row">13:35 - 14:15</th><td colspan="2" class="c-wks"><a href="#fl" class="session-title">Lunchtime workshop: Frontier Labs</a><span class="sub">How to PAM – Theory and Praxis of Deploying an Acoustic Recorder</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
+    <tr><th class="tc" scope="row">14:20 - 15:15</th><td colspan="2" class="c-track">Methods: Detection 2</td><td colspan="2" class="c-track">Conservation 3</td></tr>
+    <tr><th class="tc" scope="row">15:05 - 15:35</th><td colspan="4" class="c-break">Afternoon tea</td></tr>
+    <tr><th class="tc" scope="row">15:35 - 16:35</th><td colspan="4" class="c-break">Closing ceremony</td></tr>
   </tbody>
 </table>
 </div>
@@ -234,6 +234,17 @@ Drawing on examples from tropical forests and large-scale biodiversity monitorin
 challenges: making conservation meaning from acoustic measurements, quantifying uncertainty and evidence strength,
 building long-term baselines, navigating conflicting results, and ensuring that monitoring systems remain equitable and
 locally relevant.
+
+## Panel Session {#panel-session}
+
+### Listening for Nature: Priorities, Challenges and the Future of Ecoacoustic Monitoring
+
+**Description:** Ecoacoustics promises scalable, non-invasive and data-rich biodiversity monitoring, but can it consistently
+deliver the evidence and outcomes needed? With a range of national and international perspectives, this panel will
+explore how ecoacoustic monitoring can be designed around clear conservation decisions and priorities, its current
+limitations, and be developed responsibly in partnership with First Nations, Indigenous Peoples and local communities.
+
+**Panelists:** Brad Law, Daniella Teixeira, Emily Hynes, John Quinn, Ben Gottesman
 
 ## Monday Workshops
 
