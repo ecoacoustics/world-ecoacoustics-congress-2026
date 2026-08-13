@@ -12,6 +12,10 @@ Congress (WEC), taking place in Cairns (Gimuy), Australia, **17th - 20th of
 August** 2026. The WEC happens every 2 years and attracts hundreds of delegates
 to discuss advances and innovations in Ecoacoustics.
 
+{{< callout type="important" >}}
+Volunteers and chairs: please meet the organising committee on Monday 17/08 during Afternoon Tea to go over responsibilities, expectations and answer any questions you may have.
+{{< /callout >}}
+
 {{< callout type="info">}}
 Registrations are now closed.  
 {{< /callout >}}
