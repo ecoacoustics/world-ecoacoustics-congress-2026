@@ -32,7 +32,7 @@ This table provides an overview of the program. Please refer to the PDF version 
     <tr><th class="tc" scope="row">18:00 - 20:00</th><td colspan="4" class="c-ngt">Welcome function with music by <a href="https://rikewolf.com/synergy-rike-wolf-will-mrbo/">Rike Wolf</a> (all delegates welcome)</td></tr>
     <!-- TUESDAY -->
     <tr><th colspan="5" class="day-heading" scope="colgroup">Tuesday, 18 August</th></tr>
-    <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 7 &amp; 8</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 6</th></tr>
+    <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 10 &amp; 11</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 9</th></tr>
     <tr><th class="tc" scope="row">08:00 - 09:00</th><td colspan="4" class="c-reg">Registration</td></tr>
     <tr><th class="tc" scope="row">09:00 - 09:30</th><td colspan="4" class="c-reg">Introduction and Welcome to Country</td></tr>
     <tr><th class="tc" scope="row">09:30 - 10:30</th><td colspan="2" class="c-ple"><a href="#xavier" class="session-title">Plenary 1</a><span class="sub">Xavier Raick</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
@@ -47,7 +47,7 @@ This table provides an overview of the program. Please refer to the PDF version 
     <tr><th class="tc" scope="row">18:00 - 20:00</th><td colspan="2" class="c-empty" aria-label="No scheduled session"></td><td colspan="2" class="c-ngt">Poster session</td></tr>
     <!-- WEDNESDAY -->
     <tr><th colspan="5" class="day-heading" scope="colgroup">Wednesday, 19 August</th></tr>
-    <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 7 &amp; 8</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 6</th></tr>
+    <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 10 &amp; 11</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 9</th></tr>
     <tr><th class="tc" scope="row">08:30 - 09:00</th><td colspan="4" class="c-reg">Registration</td></tr>
     <tr><th class="tc" scope="row">09:00 - 09:15</th><td colspan="4" class="c-reg">Introduction and Housekeeping</td></tr>
     <tr><th class="tc" scope="row">09:15 - 10:15</th><td colspan="2" class="c-ple"><a href="#dominique" class="session-title">Plenary 2</a><span class="sub">Dominique Potvin</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
@@ -63,7 +63,7 @@ This table provides an overview of the program. Please refer to the PDF version 
     <tr><th class="tc" scope="row">19:00 - 22:00</th><td colspan="4" class="c-ngt">Optional dinner: Ochre Restaurant (TBC)</td></tr>
     <!-- THURSDAY -->
     <tr><th colspan="5" class="day-heading" scope="colgroup">Thursday, 20 August</th></tr>
-    <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 7 &amp; 8</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 6</th></tr>
+    <tr><th class="room-heading" scope="col">Time</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Rooms 10 &amp; 11</th><th colspan="2" class="room-heading" scope="colgroup">Mezzanine - Room 9</th></tr>
     <tr><th class="tc" scope="row">08:30 - 09:00</th><td colspan="4" class="c-reg">Registration</td></tr>
     <tr><th class="tc" scope="row">09:00 - 09:15</th><td colspan="4" class="c-reg">Introduction and Housekeeping</td></tr>
     <tr><th class="tc" scope="row">09:15 - 10:15</th><td colspan="2" class="c-ple"><a href="#wendy" class="session-title">Plenary 4</a><span class="sub">Wendy Erb</span></td><td colspan="2" class="c-empty" aria-label="No scheduled session"></td></tr>
