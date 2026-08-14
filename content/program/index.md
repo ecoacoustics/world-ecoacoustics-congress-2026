@@ -4,6 +4,8 @@ title = "Program"
 
 The detailed version of the program is available in PDF format to view or download [here](WEC_2026_Program.pdf).
 
+The **abstract booklet** is available in PDF format to view or download [here](abstract_booklet.pdf).
+
 ## Program Overview
 
 This table provides an overview of the program. Please refer to the PDF version of the full program for more details.
